@@ -1,7 +1,7 @@
 # Club gambling blocklist - selected brands only
 # Scope: ee473525f4639fc8
 # Checked-UTC: 2026-10-20
-# Domains: 21459
+# Domains: 21461
 # Source: HaGeZi https://github.com/hagezi/dns-blocklists (filtered and extended)
 # License: GPL-3.0-only; full license text follows the domains
 001win-001win-app.com
@@ -9056,6 +9056,7 @@ vavada-casino-9jb9.buzz
 vavada-casino-9xp.top
 vavada-casino-a1x.top
 vavada-casino-a2x.top
+vavada-casino-ahk.buzz
 vavada-casino-amp.com
 vavada-casino-apk.ru
 vavada-casino-be.space
@@ -19774,6 +19775,7 @@ www.vavada-casino-9jb9.buzz
 www.vavada-casino-9xp.top
 www.vavada-casino-a1x.top
 www.vavada-casino-a2x.top
+www.vavada-casino-ahk.buzz
 www.vavada-casino-amp.com
 www.vavada-casino-apk.ru
 www.vavada-casino-be.space
