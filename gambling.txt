@@ -1,7 +1,7 @@
 # Club gambling blocklist - selected brands only
-# Scope: ee473525f4639fc8
+# Scope: 817db9df104ef34c
 # Checked-UTC: 2026-10-21
-# Domains: 21537
+# Domains: 21681
 # Source: HaGeZi https://github.com/hagezi/dns-blocklists (filtered and extended)
 # License: GPL-3.0-only; full license text follows the domains
 001win-001win-app.com
@@ -1038,6 +1038,7 @@
 1win-casino-aviator.com
 1win-casino-az.com
 1win-casino-azer.click
+1win-casino-bangladesh.org
 1win-casino-bet-india.plus
 1win-casino-bet.com
 1win-casino-bet.ru
@@ -2258,6 +2259,7 @@
 1win-lin77.cam
 1win-link24.ru
 1win-live-betting-india.plus
+1win-live-casino-bangladesh.com
 1win-live-casino.ru
 1win-live-casino2.ru
 1win-live-coupon.ru
@@ -2587,6 +2589,7 @@
 1win-online-br.net
 1win-online-brasil.com
 1win-online-casino-b1xg.buzz
+1win-online-casino-bangladesh.org
 1win-online-casino-india.com
 1win-online-casino-india.plus
 1win-online-casino-zx2q.buzz
@@ -3922,6 +3925,7 @@
 1wincasinoapp.org
 1wincasinoargentina.app
 1wincasinoavenue.com
+1wincasinobangladesh.com
 1wincasinobet.ch
 1wincasinobet.online
 1wincasinobrasil.com
@@ -4315,6 +4319,7 @@ bg-vavada-casino.com
 bigvodkacasino.cc
 bk-1win-zerkalo.ru
 bk1win.ru
+bloodycase.com
 bludragon.ru
 bonodecasino1win.cl
 bonu1-win.com
@@ -4335,6 +4340,11 @@ case-battle.cfd
 case-battle.lat
 case-battle.ltd
 case-battle.moe
+case-drop.net
+casedrop.eu
+casehug.com
+caser.gg
+caser.one
 casin0vodka.casino
 casin1win-ca.com
 casino-1-win.com
@@ -4349,6 +4359,7 @@ casino-1win-bk9.top
 casino-1win-in.com
 casino-1win-kr.com
 casino-1win-login.com
+casino-1win-uz.com
 casino-1win.best
 casino-1win.click
 casino-1win.icu
@@ -4698,9 +4709,49 @@ code0-vavada-casino4.top
 codigo-1win-argentina.com
 company-1win-win.ink
 cs2-vodkacasino1.top
+cscase.io
+cscase.net
+csfail.info
+csfail.live
+csfail.us
+csgo-skins.com
 csgo.net
+csgo500.com
+csgo500.io
+csgo500pl.com
+csgo500ru.com
+csgo500tr.com
+csgoempire-slot.run
+csgoempire.biz
+csgoempire.cam
+csgoempire.com
+csgoempire.fun
+csgoempire.gg
+csgoempire.info
+csgoempire.io
+csgoempire.link
+csgoempire.top
+csgoempire.tv
+csgoempire.vegas
+csgoempire.vip
+csgoempire88.com
+csgoempiremirror.com
+csgoempiretr.com
+csgoempirev2.com
+csgofast.com
+csgofast123.com
+csgofastx.com
+csgogem.com
+csgoluck.com
+csgolucky.com
+csgoluckywheel.com
+csgoroll.com
+csgoroll.gg
+csgorolltr.com
 d2ggdrop.net
+daddyskins.com
 datastock-a1win.com
+datdrop.com
 ddragonmoneycasino.top
 de-1win.com
 de-1win.net
@@ -4710,6 +4761,8 @@ dedebet-stake.icu
 descargar-1win-argentina.com
 dewi11-win.biz
 dewi11-win.cc
+dinodrop.io
+dinodrop.nz
 download-app-1win.ru
 drag0n-777.net
 drag1n-777.net
@@ -5309,9 +5362,13 @@ en-stakecasino.com
 enderdragons.ru
 entrar-1win.com
 farmskins.com
+forcedrop.app
+forcedrop.fun
+forcedrop.vip
 fr-1win.net
 france-stakecasino.com
 g2gno1-win.com
+g4skins.com
 gama-bet.com
 gama-casino-00iv.top
 gama-casino-0vpp.top
@@ -5566,6 +5623,7 @@ gama-casinosa.com
 gama-casinosasal.top
 gama-kasino-slots.ru
 gama-official-casino.ru
+gama-play.casino
 gama-slot.xyz
 gama-slots.ru
 gama-vitrina.casino
@@ -5870,7 +5928,10 @@ game1winnercasino.com
 games-1win-co.site
 gamezone-win.com
 gatesof1win.store
+ggdrop.art
 ggdrop.com
+ggdrop.link
+ggdrop.red
 gioco-1win.com
 go-jetton-win.top
 go1win.pro
@@ -5888,6 +5949,7 @@ govodka.casino
 h1-win999.com
 h1-win999.vip
 hellcase.com
+hotpizza.gg
 hr-vavada-casino.com
 hu-vavada-casino.com
 hu-vavadacasino.com
@@ -6901,6 +6963,8 @@ lucky31winners.com
 luckyspin-top1win.online
 luxury111-win.net
 lv-vavada-casino.com
+magic-drop.win
+magicdrop.ru
 mavibet-stake.icu
 meet2gama.com
 mega-jetton-win.top
@@ -6926,6 +6990,8 @@ my-stake.poker
 my-stakecasino-fr.net
 my-stakecasino.com
 mycasino-vavada.ru
+mycsgoo.co
+mycsgoo.in
 new-1win.casino
 new-1winbangladesh.com
 new-vodkabet.co
@@ -6988,6 +7054,7 @@ onlinecasinovavada.com
 oo1win.com
 palmer-1win.com
 panama-1win.com
+pandaskins.com
 pejettoncasino.net
 pejettoncasinoperu.com
 physio-fabrik11-winterthur.ch
@@ -7770,6 +7837,7 @@ pincocasino-best020926.casino
 pincocasino-bonus.buzz
 pincocasino-bonus.ru
 pincocasino-btc.ru
+pincocasino-ca.com
 pincocasino-cur.buzz
 pincocasino-dva4.com
 pincocasino-fastbet.top
@@ -8195,6 +8263,7 @@ ru-vodkacasino850.com
 rus-pinco333casino.com
 skachat-1win-app.online
 skin.club
+skinbox.io
 slot-21-win.biz
 slot-stake.com
 slots-1win-mobile-1.top
@@ -8435,6 +8504,7 @@ stake-slot.pl
 stake-sports-bet.com
 stake-topcasino.com
 stake-win.top
+stake-wincas.com
 stake.ac
 stake.bet
 stake.bz
@@ -8946,6 +9016,7 @@ stakecasinoargentina.info
 stakecasinoargentina.online
 stakecasinoargentino.com
 stakecasinoaus.com
+stakecasinoaustralia.com
 stakecasinoaustralia.net
 stakecasinoaustralia.org
 stakecasinoavis.shop
@@ -10763,6 +10834,7 @@ win-jetton.online
 win-kent.online
 win-vavada.one
 win1221win.com
+wondercase.net
 www-1winbet.ru
 www.001win-001win-app.com
 www.001win-bet.com
@@ -11797,6 +11869,7 @@ www.1win-casino-au.click
 www.1win-casino-aviator.com
 www.1win-casino-az.com
 www.1win-casino-azer.click
+www.1win-casino-bangladesh.org
 www.1win-casino-bet-india.plus
 www.1win-casino-bet.com
 www.1win-casino-bet.ru
@@ -13017,6 +13090,7 @@ www.1win-liic89.best
 www.1win-lin77.cam
 www.1win-link24.ru
 www.1win-live-betting-india.plus
+www.1win-live-casino-bangladesh.com
 www.1win-live-casino.ru
 www.1win-live-casino2.ru
 www.1win-live-coupon.ru
@@ -13346,6 +13420,7 @@ www.1win-online-br.com
 www.1win-online-br.net
 www.1win-online-brasil.com
 www.1win-online-casino-b1xg.buzz
+www.1win-online-casino-bangladesh.org
 www.1win-online-casino-india.com
 www.1win-online-casino-india.plus
 www.1win-online-casino-zx2q.buzz
@@ -14681,6 +14756,7 @@ www.1wincasinoapp.lat
 www.1wincasinoapp.org
 www.1wincasinoargentina.app
 www.1wincasinoavenue.com
+www.1wincasinobangladesh.com
 www.1wincasinobet.ch
 www.1wincasinobet.online
 www.1wincasinobrasil.com
@@ -15074,6 +15150,7 @@ www.bg-vavada-casino.com
 www.bigvodkacasino.cc
 www.bk-1win-zerkalo.ru
 www.bk1win.ru
+www.bloodycase.com
 www.bludragon.ru
 www.bonodecasino1win.cl
 www.bonu1-win.com
@@ -15094,6 +15171,11 @@ www.case-battle.cfd
 www.case-battle.lat
 www.case-battle.ltd
 www.case-battle.moe
+www.case-drop.net
+www.casedrop.eu
+www.casehug.com
+www.caser.gg
+www.caser.one
 www.casin0vodka.casino
 www.casin1win-ca.com
 www.casino-1-win.com
@@ -15108,6 +15190,7 @@ www.casino-1win-bk9.top
 www.casino-1win-in.com
 www.casino-1win-kr.com
 www.casino-1win-login.com
+www.casino-1win-uz.com
 www.casino-1win.best
 www.casino-1win.click
 www.casino-1win.icu
@@ -15457,9 +15540,49 @@ www.code0-vavada-casino4.top
 www.codigo-1win-argentina.com
 www.company-1win-win.ink
 www.cs2-vodkacasino1.top
+www.cscase.io
+www.cscase.net
+www.csfail.info
+www.csfail.live
+www.csfail.us
+www.csgo-skins.com
 www.csgo.net
+www.csgo500.com
+www.csgo500.io
+www.csgo500pl.com
+www.csgo500ru.com
+www.csgo500tr.com
+www.csgoempire-slot.run
+www.csgoempire.biz
+www.csgoempire.cam
+www.csgoempire.com
+www.csgoempire.fun
+www.csgoempire.gg
+www.csgoempire.info
+www.csgoempire.io
+www.csgoempire.link
+www.csgoempire.top
+www.csgoempire.tv
+www.csgoempire.vegas
+www.csgoempire.vip
+www.csgoempire88.com
+www.csgoempiremirror.com
+www.csgoempiretr.com
+www.csgoempirev2.com
+www.csgofast.com
+www.csgofast123.com
+www.csgofastx.com
+www.csgogem.com
+www.csgoluck.com
+www.csgolucky.com
+www.csgoluckywheel.com
+www.csgoroll.com
+www.csgoroll.gg
+www.csgorolltr.com
 www.d2ggdrop.net
+www.daddyskins.com
 www.datastock-a1win.com
+www.datdrop.com
 www.ddragonmoneycasino.top
 www.de-1win.com
 www.de-1win.net
@@ -15469,6 +15592,8 @@ www.dedebet-stake.icu
 www.descargar-1win-argentina.com
 www.dewi11-win.biz
 www.dewi11-win.cc
+www.dinodrop.io
+www.dinodrop.nz
 www.download-app-1win.ru
 www.drag0n-777.net
 www.drag1n-777.net
@@ -16068,9 +16193,13 @@ www.en-stakecasino.com
 www.enderdragons.ru
 www.entrar-1win.com
 www.farmskins.com
+www.forcedrop.app
+www.forcedrop.fun
+www.forcedrop.vip
 www.fr-1win.net
 www.france-stakecasino.com
 www.g2gno1-win.com
+www.g4skins.com
 www.gama-bet.com
 www.gama-casino-00iv.top
 www.gama-casino-0vpp.top
@@ -16325,6 +16454,7 @@ www.gama-casinosa.com
 www.gama-casinosasal.top
 www.gama-kasino-slots.ru
 www.gama-official-casino.ru
+www.gama-play.casino
 www.gama-slot.xyz
 www.gama-slots.ru
 www.gama-vitrina.casino
@@ -16629,7 +16759,10 @@ www.game1winnercasino.com
 www.games-1win-co.site
 www.gamezone-win.com
 www.gatesof1win.store
+www.ggdrop.art
 www.ggdrop.com
+www.ggdrop.link
+www.ggdrop.red
 www.gioco-1win.com
 www.go-jetton-win.top
 www.go1win.pro
@@ -16647,6 +16780,7 @@ www.govodka.casino
 www.h1-win999.com
 www.h1-win999.vip
 www.hellcase.com
+www.hotpizza.gg
 www.hr-vavada-casino.com
 www.hu-vavada-casino.com
 www.hu-vavadacasino.com
@@ -17660,6 +17794,8 @@ www.lucky31winners.com
 www.luckyspin-top1win.online
 www.luxury111-win.net
 www.lv-vavada-casino.com
+www.magic-drop.win
+www.magicdrop.ru
 www.mavibet-stake.icu
 www.meet2gama.com
 www.mega-jetton-win.top
@@ -17685,6 +17821,8 @@ www.my-stake.poker
 www.my-stakecasino-fr.net
 www.my-stakecasino.com
 www.mycasino-vavada.ru
+www.mycsgoo.co
+www.mycsgoo.in
 www.new-1win.casino
 www.new-1winbangladesh.com
 www.new-vodkabet.co
@@ -17747,6 +17885,7 @@ www.onlinecasinovavada.com
 www.oo1win.com
 www.palmer-1win.com
 www.panama-1win.com
+www.pandaskins.com
 www.pejettoncasino.net
 www.pejettoncasinoperu.com
 www.physio-fabrik11-winterthur.ch
@@ -18529,6 +18668,7 @@ www.pincocasino-best020926.casino
 www.pincocasino-bonus.buzz
 www.pincocasino-bonus.ru
 www.pincocasino-btc.ru
+www.pincocasino-ca.com
 www.pincocasino-cur.buzz
 www.pincocasino-dva4.com
 www.pincocasino-fastbet.top
@@ -18952,6 +19092,7 @@ www.ru-vodkacasino850.com
 www.rus-pinco333casino.com
 www.skachat-1win-app.online
 www.skin.club
+www.skinbox.io
 www.slot-21-win.biz
 www.slot-stake.com
 www.slots-1win-mobile-1.top
@@ -19192,6 +19333,7 @@ www.stake-slot.pl
 www.stake-sports-bet.com
 www.stake-topcasino.com
 www.stake-win.top
+www.stake-wincas.com
 www.stake.ac
 www.stake.bet
 www.stake.bz
@@ -19703,6 +19845,7 @@ www.stakecasinoargentina.info
 www.stakecasinoargentina.online
 www.stakecasinoargentino.com
 www.stakecasinoaus.com
+www.stakecasinoaustralia.com
 www.stakecasinoaustralia.net
 www.stakecasinoaustralia.org
 www.stakecasinoavis.shop
@@ -21520,6 +21663,7 @@ www.win-jetton.online
 www.win-kent.online
 www.win-vavada.one
 www.win1221win.com
+www.wondercase.net
 www.www-1winbet.ru
 www.x1win.casino
 www.xn----7sbbfkvhlc7acj.casino
