@@ -1,7 +1,7 @@
 # Club gambling blocklist - selected brands only
 # Scope: ee473525f4639fc8
 # Checked-UTC: 2026-10-21
-# Domains: 21461
+# Domains: 21537
 # Source: HaGeZi https://github.com/hagezi/dns-blocklists (filtered and extended)
 # License: GPL-3.0-only; full license text follows the domains
 001win-001win-app.com
@@ -704,6 +704,7 @@
 1win-best.ru
 1win-best1.top
 1win-beste.com
+1win-bestplay.ru
 1win-bet-apuestas.com
 1win-bet-brasil.bet
 1win-bet-brasil.click
@@ -1185,6 +1186,7 @@
 1win-casino-x2.top
 1win-casino-x3.top
 1win-casino-x4.top
+1win-casino-y-apuestas.com
 1win-casino-zerkalo.ru
 1win-casino-zerkalo.site
 1win-casino-zerkalo1.ru
@@ -2705,6 +2707,7 @@
 1win-play-games.win
 1win-play-now.com
 1win-play-online.net
+1win-play-ru.com
 1win-play.art
 1win-play.bingo
 1win-play.casino
@@ -2748,7 +2751,9 @@
 1win-pro.com
 1win-pro.pro
 1win-promo-club.ru
+1win-promo.click
 1win-promo.lat
+1win-promo.live
 1win-promo.net
 1win-promo.top
 1win-psg52.sbs
@@ -2856,6 +2861,7 @@
 1win-registrace.com
 1win-registraciya-2023.ru
 1win-registration-hu.com
+1win-registratios.space
 1win-registrazione.com
 1win-registrierung.com
 1win-registro-site.com
@@ -3134,6 +3140,7 @@
 1win-tny33.buzz
 1win-token.shop
 1win-top.site
+1win-topcasino.online
 1win-tpg15.cam
 1win-tpw.online
 1win-tq2.cfd
@@ -3156,6 +3163,7 @@
 1win-txk82.fun
 1win-txo51.cam
 1win-tyn74.buzz
+1win-tyrkiye.com
 1win-tyw67.online
 1win-tyz77.cam
 1win-tz.net
@@ -6174,6 +6182,7 @@ kent-casino-house.ru
 kent-casino-ihs.buzz
 kent-casino-ihx.top
 kent-casino-iih.buzz
+kent-casino-iiz.buzz
 kent-casino-info.shop
 kent-casino-iof.top
 kent-casino-ioi.top
@@ -6330,16 +6339,34 @@ kent-casino-rtn.top
 kent-casino-ru.buzz
 kent-casino-ru.mobi
 kent-casino-run.buzz
+kent-casino-sca.buzz
 kent-casino-scb.buzz
 kent-casino-scc.buzz
+kent-casino-scd.buzz
 kent-casino-sce.buzz
+kent-casino-scf.buzz
+kent-casino-scg.buzz
+kent-casino-sch.buzz
+kent-casino-sci.buzz
+kent-casino-scj.buzz
+kent-casino-sck.buzz
+kent-casino-scl.buzz
 kent-casino-scm.buzz
+kent-casino-scn.buzz
+kent-casino-sco.buzz
+kent-casino-scp.buzz
 kent-casino-scq.buzz
+kent-casino-scr.buzz
 kent-casino-scr.top
+kent-casino-scs.buzz
+kent-casino-sct.buzz
+kent-casino-scu.buzz
 kent-casino-scv.buzz
 kent-casino-scw.buzz
 kent-casino-scx.buzz
+kent-casino-scy.buzz
 kent-casino-scy.top
+kent-casino-scz.buzz
 kent-casino-sfg2.online
 kent-casino-site.ru
 kent-casino-site1.top
@@ -7006,6 +7033,7 @@ pinco-bet.ink
 pinco-bets-az.com
 pinco-bets-kz.com
 pinco-bets-uz.com
+pinco-bets.red
 pinco-betting.site
 pinco-c2.casino
 pinco-c2234.casino
@@ -7120,6 +7148,7 @@ pinco-casino-dr5hc.cyou
 pinco-casino-exls6.lol
 pinco-casino-exo.buzz
 pinco-casino-fast.ru
+pinco-casino-fiq6.buzz
 pinco-casino-fpr.top
 pinco-casino-fresh.ru
 pinco-casino-games-site.top
@@ -7183,6 +7212,7 @@ pinco-casino-official-chl2.xyz
 pinco-casino-official-cja2.xyz
 pinco-casino-official-gio2.lol
 pinco-casino-official-kqe4.xyz
+pinco-casino-official-ru-ls001.buzz
 pinco-casino-official-site.online
 pinco-casino-official-top.online
 pinco-casino-official.bar
@@ -7203,6 +7233,7 @@ pinco-casino-pin-co.com
 pinco-casino-pin-ko.com
 pinco-casino-pinco.com
 pinco-casino-pinko.com
+pinco-casino-pinko.fit
 pinco-casino-pjk.sbs
 pinco-casino-play-now.shop
 pinco-casino-play.best
@@ -7611,6 +7642,7 @@ pinco-online-casino-7.top
 pinco-online-casino.ink
 pinco-pinko-casino.com
 pinco-platforma-casino.ru
+pinco-play-casino.ink
 pinco-playcasinoqaz.digital
 pinco-realslots.ru
 pinco-resmi-casino.com
@@ -7626,6 +7658,7 @@ pinco-slots.biz
 pinco-slots24.ru
 pinco-top1-casino.shop
 pinco-top1casino.fit
+pinco-topcasinos.live
 pinco-tr-casino.ink
 pinco-uz-casino.com
 pinco-uz-casino.pro
@@ -7985,6 +8018,7 @@ pinko-pinco-casino.com
 pinko-pinco-casino.shop
 pinko-pinco-casinos.shop
 pinko-rus-casino.top
+pinko-slot321.casino
 pinko-win-top.today
 pinko-win.space
 pinko-win24.casino
@@ -8177,6 +8211,7 @@ stake-argentina-bet.com
 stake-argentina-casino.click
 stake-argentine-casino.com
 stake-bet-ca.com
+stake-bet-casino.com
 stake-bet-fr.com
 stake-bet-fr.net
 stake-bet-fr.org
@@ -8529,6 +8564,7 @@ stake173.com
 stake175.com
 stake1771.com
 stake1771.xyz
+stake183.com
 stake183.info
 stake184.com
 stake188.bet
@@ -9056,6 +9092,7 @@ vavada-casino-9jb9.buzz
 vavada-casino-9xp.top
 vavada-casino-a1x.top
 vavada-casino-a2x.top
+vavada-casino-ahh.buzz
 vavada-casino-ahk.buzz
 vavada-casino-amp.com
 vavada-casino-apk.ru
@@ -9176,6 +9213,7 @@ vavada-casino-pxe.buzz
 vavada-casino-q2m.top
 vavada-casino-q3m.top
 vavada-casino-q4m.top
+vavada-casino-qq.buzz
 vavada-casino-r2v.top
 vavada-casino-r3v.top
 vavada-casino-r4v.top
@@ -11425,6 +11463,7 @@ www.1win-beqnn.sbs
 www.1win-best.ru
 www.1win-best1.top
 www.1win-beste.com
+www.1win-bestplay.ru
 www.1win-bet-apuestas.com
 www.1win-bet-brasil.bet
 www.1win-bet-brasil.click
@@ -11906,6 +11945,7 @@ www.1win-casino-x1.top
 www.1win-casino-x2.top
 www.1win-casino-x3.top
 www.1win-casino-x4.top
+www.1win-casino-y-apuestas.com
 www.1win-casino-zerkalo.ru
 www.1win-casino-zerkalo.site
 www.1win-casino-zerkalo1.ru
@@ -13426,6 +13466,7 @@ www.1win-play-games.ru
 www.1win-play-games.win
 www.1win-play-now.com
 www.1win-play-online.net
+www.1win-play-ru.com
 www.1win-play.art
 www.1win-play.bingo
 www.1win-play.casino
@@ -13469,7 +13510,9 @@ www.1win-pre1.top
 www.1win-pro.com
 www.1win-pro.pro
 www.1win-promo-club.ru
+www.1win-promo.click
 www.1win-promo.lat
+www.1win-promo.live
 www.1win-promo.net
 www.1win-promo.top
 www.1win-psg52.sbs
@@ -13577,6 +13620,7 @@ www.1win-reccho.com
 www.1win-registrace.com
 www.1win-registraciya-2023.ru
 www.1win-registration-hu.com
+www.1win-registratios.space
 www.1win-registrazione.com
 www.1win-registrierung.com
 www.1win-registro-site.com
@@ -13855,6 +13899,7 @@ www.1win-tnx36.sbs
 www.1win-tny33.buzz
 www.1win-token.shop
 www.1win-top.site
+www.1win-topcasino.online
 www.1win-tpg15.cam
 www.1win-tpw.online
 www.1win-tq2.cfd
@@ -13877,6 +13922,7 @@ www.1win-twvkb.cfd
 www.1win-txk82.fun
 www.1win-txo51.cam
 www.1win-tyn74.buzz
+www.1win-tyrkiye.com
 www.1win-tyw67.online
 www.1win-tyz77.cam
 www.1win-tz.net
@@ -16895,6 +16941,7 @@ www.kent-casino-house.ru
 www.kent-casino-ihs.buzz
 www.kent-casino-ihx.top
 www.kent-casino-iih.buzz
+www.kent-casino-iiz.buzz
 www.kent-casino-info.shop
 www.kent-casino-iof.top
 www.kent-casino-ioi.top
@@ -17051,16 +17098,34 @@ www.kent-casino-rtn.top
 www.kent-casino-ru.buzz
 www.kent-casino-ru.mobi
 www.kent-casino-run.buzz
+www.kent-casino-sca.buzz
 www.kent-casino-scb.buzz
 www.kent-casino-scc.buzz
+www.kent-casino-scd.buzz
 www.kent-casino-sce.buzz
+www.kent-casino-scf.buzz
+www.kent-casino-scg.buzz
+www.kent-casino-sch.buzz
+www.kent-casino-sci.buzz
+www.kent-casino-scj.buzz
+www.kent-casino-sck.buzz
+www.kent-casino-scl.buzz
 www.kent-casino-scm.buzz
+www.kent-casino-scn.buzz
+www.kent-casino-sco.buzz
+www.kent-casino-scp.buzz
 www.kent-casino-scq.buzz
+www.kent-casino-scr.buzz
 www.kent-casino-scr.top
+www.kent-casino-scs.buzz
+www.kent-casino-sct.buzz
+www.kent-casino-scu.buzz
 www.kent-casino-scv.buzz
 www.kent-casino-scw.buzz
 www.kent-casino-scx.buzz
+www.kent-casino-scy.buzz
 www.kent-casino-scy.top
+www.kent-casino-scz.buzz
 www.kent-casino-sfg2.online
 www.kent-casino-site.ru
 www.kent-casino-site1.top
@@ -17727,6 +17792,7 @@ www.pinco-bet.ink
 www.pinco-bets-az.com
 www.pinco-bets-kz.com
 www.pinco-bets-uz.com
+www.pinco-bets.red
 www.pinco-betting.site
 www.pinco-c2.casino
 www.pinco-c2234.casino
@@ -17841,6 +17907,7 @@ www.pinco-casino-dr5hc.cyou
 www.pinco-casino-exls6.lol
 www.pinco-casino-exo.buzz
 www.pinco-casino-fast.ru
+www.pinco-casino-fiq6.buzz
 www.pinco-casino-fpr.top
 www.pinco-casino-fresh.ru
 www.pinco-casino-games-site.top
@@ -17904,6 +17971,7 @@ www.pinco-casino-official-chl2.xyz
 www.pinco-casino-official-cja2.xyz
 www.pinco-casino-official-gio2.lol
 www.pinco-casino-official-kqe4.xyz
+www.pinco-casino-official-ru-ls001.buzz
 www.pinco-casino-official-site.online
 www.pinco-casino-official-top.online
 www.pinco-casino-official.bar
@@ -17924,6 +17992,7 @@ www.pinco-casino-pin-co.com
 www.pinco-casino-pin-ko.com
 www.pinco-casino-pinco.com
 www.pinco-casino-pinko.com
+www.pinco-casino-pinko.fit
 www.pinco-casino-pjk.sbs
 www.pinco-casino-play-now.shop
 www.pinco-casino-play.best
@@ -18332,6 +18401,7 @@ www.pinco-online-casino-7.top
 www.pinco-online-casino.ink
 www.pinco-pinko-casino.com
 www.pinco-platforma-casino.ru
+www.pinco-play-casino.ink
 www.pinco-playcasinoqaz.digital
 www.pinco-realslots.ru
 www.pinco-resmi-casino.com
@@ -18347,6 +18417,7 @@ www.pinco-slots.biz
 www.pinco-slots24.ru
 www.pinco-top1-casino.shop
 www.pinco-top1casino.fit
+www.pinco-topcasinos.live
 www.pinco-tr-casino.ink
 www.pinco-uz-casino.com
 www.pinco-uz-casino.pro
@@ -18706,6 +18777,7 @@ www.pinko-pinco-casino.com
 www.pinko-pinco-casino.shop
 www.pinko-pinco-casinos.shop
 www.pinko-rus-casino.top
+www.pinko-slot321.casino
 www.pinko-win-top.today
 www.pinko-win.space
 www.pinko-win24.casino
@@ -18896,6 +18968,7 @@ www.stake-argentina-bet.com
 www.stake-argentina-casino.click
 www.stake-argentine-casino.com
 www.stake-bet-ca.com
+www.stake-bet-casino.com
 www.stake-bet-fr.com
 www.stake-bet-fr.net
 www.stake-bet-fr.org
@@ -19248,6 +19321,7 @@ www.stake173.com
 www.stake175.com
 www.stake1771.com
 www.stake1771.xyz
+www.stake183.com
 www.stake183.info
 www.stake184.com
 www.stake188.bet
@@ -19775,6 +19849,7 @@ www.vavada-casino-9jb9.buzz
 www.vavada-casino-9xp.top
 www.vavada-casino-a1x.top
 www.vavada-casino-a2x.top
+www.vavada-casino-ahh.buzz
 www.vavada-casino-ahk.buzz
 www.vavada-casino-amp.com
 www.vavada-casino-apk.ru
@@ -19895,6 +19970,7 @@ www.vavada-casino-pxe.buzz
 www.vavada-casino-q2m.top
 www.vavada-casino-q3m.top
 www.vavada-casino-q4m.top
+www.vavada-casino-qq.buzz
 www.vavada-casino-r2v.top
 www.vavada-casino-r3v.top
 www.vavada-casino-r4v.top
