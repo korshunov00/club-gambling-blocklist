@@ -1,6 +1,6 @@
 # Club gambling blocklist - selected brands only
 # Scope: 817db9df104ef34c
-# Checked-UTC: 2026-10-21
+# Checked-UTC: 2026-10-22
 # Domains: 21683
 # Source: HaGeZi https://github.com/hagezi/dns-blocklists (filtered and extended)
 # License: GPL-3.0-only; full license text follows the domains
