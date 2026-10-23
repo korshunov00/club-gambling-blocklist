@@ -1,7 +1,7 @@
 # Club gambling blocklist - selected brands only
 # Scope: 817db9df104ef34c
 # Checked-UTC: 2026-10-23
-# Domains: 22023
+# Domains: 22025
 # Source: HaGeZi https://github.com/hagezi/dns-blocklists (filtered and extended)
 # License: GPL-3.0-only; full license text follows the domains
 001win-001win-app.com
@@ -5249,7 +5249,6 @@ drgn1.casino
 drgn1.games
 drgn1.space
 drgn10.casino
-drgn91.casino
 drgn101.casino
 drgn103.casino
 drgn104.casino
@@ -5344,6 +5343,7 @@ drgn86.casino
 drgn87ney.casino
 drgn9.casino
 drgn90.casino
+drgn91.casino
 drgn911.casino
 drgn93ney.casino
 drgn97.casino
@@ -16346,6 +16346,7 @@ www.drgn86.casino
 www.drgn87ney.casino
 www.drgn9.casino
 www.drgn90.casino
+www.drgn91.casino
 www.drgn911.casino
 www.drgn93ney.casino
 www.drgn97.casino
