@@ -1,7 +1,7 @@
 # Club gambling blocklist - selected brands only
 # Scope: 817db9df104ef34c
 # Checked-UTC: 2026-10-28
-# Domains: 22675
+# Domains: 22861
 # Source: HaGeZi https://github.com/hagezi/dns-blocklists (filtered and extended)
 # License: GPL-3.0-only; full license text follows the domains
 001win-001win-app.com
@@ -92,12 +92,14 @@
 1-win.br.com
 1-win.cam
 1-win.cards
+1-win.ch
 1-win.dev
 1-win.expert
 1-win.finance
 1-win.fund
 1-win.games
 1-win.in
+1-win.ink
 1-win.lol
 1-win.ng
 1-win.partners
@@ -229,6 +231,7 @@
 1win-0qt1s.top
 1win-0qvh.cfd
 1win-0ru2v.sbs
+1win-0s6.cfd
 1win-0ua0s.top
 1win-0vexg.buzz
 1win-0w3g.cam
@@ -253,6 +256,7 @@
 1win-19s.top
 1win-1al.top
 1win-1bbbi.xyz
+1win-1g1.cfd
 1win-1hc7l.buzz
 1win-1ist.top
 1win-1kd.sbs
@@ -276,6 +280,7 @@
 1win-1wn10.top
 1win-1wn6.top
 1win-1wt6.top
+1win-1ww.top
 1win-1x2ow.xyz
 1win-1xbet.top
 1win-1zy.homes
@@ -300,6 +305,7 @@
 1win-21tj.top
 1win-222.bet
 1win-2234.ru
+1win-24en9.cfd
 1win-251.top
 1win-26.com
 1win-2720.ru
@@ -352,6 +358,7 @@
 1win-4395.ru
 1win-4488.ru
 1win-44l.top
+1win-454.top
 1win-456.bet
 1win-45fj.autos
 1win-463.click
@@ -423,8 +430,10 @@
 1win-7.icu
 1win-7.top
 1win-7.xyz
+1win-729j.buzz
 1win-72pw4.top
 1win-73kya.click
+1win-73rc.buzz
 1win-74j.cfd
 1win-74u.top
 1win-789.bet
@@ -432,6 +441,7 @@
 1win-78ze9.xyz
 1win-795sf.sbs
 1win-7erwe.sbs
+1win-7g44.top
 1win-7j7.top
 1win-7jhc.sbs
 1win-7mr.top
@@ -464,6 +474,7 @@
 1win-8hjb3.top
 1win-8htln.sbs
 1win-8j8vg.top
+1win-8lie.top
 1win-8ll.autos
 1win-8m8.store
 1win-8nk9n.xyz
@@ -501,6 +512,7 @@
 1win-9iwci.top
 1win-9jch9.top
 1win-9kzc6.buzz
+1win-9l7o4.xyz
 1win-9ojr.casino
 1win-9ou.top
 1win-9rl.click
@@ -529,6 +541,7 @@
 1win-afb98.cfd
 1win-afl1.top
 1win-afp91.cam
+1win-afrique.com
 1win-aft34.sbs
 1win-afz86.cfd
 1win-agh59.sbs
@@ -568,6 +581,7 @@
 1win-an1.top
 1win-ancn4.top
 1win-andrew.com
+1win-android-app.info
 1win-android-app.ru
 1win-android-download.ru
 1win-android-online.ru
@@ -670,6 +684,7 @@
 1win-asp54.sbs
 1win-asqwe.cfd
 1win-asr94.buzz
+1win-asvue.top
 1win-ate26.sbs
 1win-ats49.cam
 1win-attention.sbs
@@ -747,6 +762,7 @@
 1win-bangladesh.click
 1win-bbt9f.cfd
 1win-bbv58.sbs
+1win-bbw4.cfd
 1win-bbxl7.top
 1win-bcf.top
 1win-bck3.cfd
@@ -881,6 +897,8 @@
 1win-bll2.top
 1win-blx16.buzz
 1win-blz8.cfd
+1win-bm4.xyz
+1win-bm7.xyz
 1win-bm8.xyz
 1win-bn3.xyz
 1win-bn5.xyz
@@ -953,6 +971,7 @@
 1win-br.website
 1win-br.win
 1win-br3.xyz
+1win-br6.xyz
 1win-brasil-bet.com
 1win-brasil-bet.fyi
 1win-brasil-bet.run
@@ -1012,6 +1031,7 @@
 1win-bt4.xyz
 1win-bt5.xyz
 1win-bt7.xyz
+1win-bt9.xyz
 1win-bte3.buzz
 1win-btf3.buzz
 1win-bth.top
@@ -1040,6 +1060,7 @@
 1win-bv4.xyz
 1win-bvr6.top
 1win-bvu.top
+1win-bw2.xyz
 1win-bw4.xyz
 1win-bw6.xyz
 1win-bw7.cfd
@@ -1228,6 +1249,7 @@
 1win-casino-official9.top
 1win-casino-officials.com
 1win-casino-officialsite-bbo9.buzz
+1win-casino-officialsite.link
 1win-casino-officialsite.shop
 1win-casino-oficial.lat
 1win-casino-oficial.org
@@ -1256,6 +1278,7 @@
 1win-casino-promo.ru
 1win-casino-pt.net
 1win-casino-realmoney.space
+1win-casino-registration.click
 1win-casino-registration.space
 1win-casino-review.ru
 1win-casino-room.ru
@@ -1336,6 +1359,7 @@
 1win-casino111.buzz
 1win-casino113.buzz
 1win-casino114.buzz
+1win-casino115.buzz
 1win-casino116.buzz
 1win-casino117.buzz
 1win-casino119.buzz
@@ -1675,6 +1699,7 @@
 1win-dgb38.cam
 1win-dgg66.cfd
 1win-dgg93.top
+1win-dgh399.top
 1win-di00w.cfd
 1win-di3.top
 1win-dig27.buzz
@@ -1688,6 +1713,7 @@
 1win-dkf1.top
 1win-dky43.buzz
 1win-dlg87.buzz
+1win-dlwm.top
 1win-dlya-android.ru
 1win-doov93.best
 1win-download-apk.ru
@@ -1792,6 +1818,7 @@
 1win-eymab.xyz
 1win-f.com
 1win-f0ssc.click
+1win-f1dd.top
 1win-f69tc.click
 1win-f75n.top
 1win-fal1.top
@@ -1817,6 +1844,7 @@
 1win-fgvzj.xyz
 1win-fhc43.buzz
 1win-fhp78.buzz
+1win-finibet.click
 1win-fis19.buzz
 1win-fix69.buzz
 1win-fjvbe.buzz
@@ -1951,6 +1979,7 @@
 1win-gji19.sbs
 1win-gjpc.cfd
 1win-gkl43.cfd
+1win-gle.top
 1win-global.sbs
 1win-globalez.click
 1win-glz63.sbs
@@ -1998,6 +2027,7 @@
 1win-hcd69.sbs
 1win-hcsgi.buzz
 1win-hdo65.sbs
+1win-he4.buzz
 1win-he4wm.top
 1win-hec.lifestyle
 1win-hek95.cfd
@@ -2009,6 +2039,7 @@
 1win-hgymj.cfd
 1win-hhq67.cfd
 1win-hi34.pics
+1win-hit.buzz
 1win-hk77.click
 1win-hkq23.cam
 1win-hkw91.buzz
@@ -2077,6 +2108,7 @@
 1win-iii-official18.top
 1win-iij24.cfd
 1win-iir10.top
+1win-iir11.top
 1win-ij6.cfd
 1win-ijj44.top
 1win-ijuq.top
@@ -2918,6 +2950,7 @@
 1win-pnx33.buzz
 1win-pok7.top
 1win-poker-kazino-grand.top
+1win-poker.click
 1win-poker.club
 1win-poker.com
 1win-poker.lat
@@ -2961,6 +2994,7 @@
 1win-pyb36.cfd
 1win-pyt1.top
 1win-pz81y.xyz
+1win-q0d.cfd
 1win-q1b.top
 1win-q277d.buzz
 1win-q4d.cfd
@@ -3082,6 +3116,7 @@
 1win-rkx.study
 1win-rlvax.top
 1win-rmf46.buzz
+1win-rno67.buzz
 1win-ro.com
 1win-roe75.cfd
 1win-row97.buzz
@@ -3147,6 +3182,7 @@
 1win-sgf44.buzz
 1win-sgg39.cfd
 1win-sgj69.top
+1win-sgog.cfd
 1win-sgp38.buzz
 1win-sgr19.cam
 1win-sgwjr.buzz
@@ -3372,6 +3408,7 @@
 1win-two16.cam
 1win-twp0g.top
 1win-twvkb.cfd
+1win-tww.cfd
 1win-txk82.fun
 1win-txo51.cam
 1win-tyn74.buzz
@@ -3433,6 +3470,7 @@
 1win-uq2l.top
 1win-urd19.cfd
 1win-uru2.top
+1win-urus.top
 1win-us88.com
 1win-user-cabinet.ru
 1win-user-room.ru
@@ -3552,6 +3590,7 @@
 1win-vvb1.top
 1win-vvn21.cfd
 1win-vvx33.cam
+1win-vvzmz.cfd
 1win-vwa.study
 1win-vwfhy.top
 1win-vwo24.sbs
@@ -3741,6 +3780,7 @@
 1win-yc67.top
 1win-ycjd.website
 1win-ycy77.cam
+1win-ydg.cfd
 1win-ydmxy.sbs
 1win-ydn57.cam
 1win-ydq91.cfd
@@ -3795,6 +3835,7 @@
 1win-z4rnk.top
 1win-z8k2p.cfd
 1win-za.net
+1win-za.top
 1win-zaf18.cam
 1win-zao74.sbs
 1win-zbcg.forum
@@ -3910,6 +3951,7 @@
 1win777.ru
 1win823.casino
 1win9.com
+1win915.casino
 1win994casino.online
 1winamp-v83z.cfd
 1winamp4-r9x.click
@@ -4049,6 +4091,7 @@
 1wincasino-online-co.com
 1wincasino-online-my.org
 1wincasino-online.best
+1wincasino-online.cfd
 1wincasino-online.cz
 1wincasino-online.top
 1wincasino-panama.com
@@ -4079,6 +4122,7 @@
 1wincasino-tr.click
 1wincasino-venezuela.net
 1wincasino-venezuela.org
+1wincasino-vhod.click
 1wincasino-vhod.gives
 1wincasino-vhod.sbs
 1wincasino-vip.buzz
@@ -4241,6 +4285,7 @@
 1wincasinoz-mobile.site
 1wincasinoz-official-site.fun
 1wincasinoz-officialsite.shop
+1wincasinoz-register.cyou
 1wincasinoz.buzz
 1wincasinoz1.buzz
 1wincassinos-france.fr
@@ -4976,6 +5021,7 @@ casinoz-vavada.xyz
 cassino-brasil-1win.com
 cazino-vavada-win777x.top
 cazino-vavada.icu
+cazinos-1win.cyou
 cdn-1win.xyz
 chile-1wins.com
 ci-1win.net
@@ -5257,6 +5303,7 @@ dragonmoney5226.casino
 dragonmoney543j.casino
 dragonmoney551.casino
 dragonmoney5631casino.lol
+dragonmoney583.casino
 dragonmoney58w.casino
 dragonmoney593.casino
 dragonmoney595.casino
@@ -5305,6 +5352,7 @@ dragonmoney93d.casino
 dragonmoney943.casino
 dragonmoney945.casino
 dragonmoney95.casino
+dragonmoney955.casino
 dragonmoney95b.casino
 dragonmoney95n.casino
 dragonmoney977.casino
@@ -6133,6 +6181,7 @@ gamacasino-znh.top
 gamacasino-zso.top
 gamacasino-zzj.top
 gamacasino-zzx.top
+gamacasino.buzz
 gamacasino.casino
 gamacasino.diy
 gamacasino.me
@@ -7019,6 +7068,7 @@ kent0421.casino
 kent0423.casino
 kent0493.casino
 kent07.casino
+kent08.casino
 kent08062.casino
 kent0911.casino
 kent098.casino
@@ -7667,7 +7717,13 @@ pinco-casino-official.bar
 pinco-casino-official.cc
 pinco-casino-official.click
 pinco-casino-official.digital
+pinco-casino-official.fun
 pinco-casino-official.help
+pinco-casino-official.space
+pinco-casino-official.store
+pinco-casino-official.top
+pinco-casino-official.uno
+pinco-casino-official.xyz
 pinco-casino-one.ru
 pinco-casino-online-gof8.buzz
 pinco-casino-online.life
@@ -8005,11 +8061,25 @@ pinco-casinoofficial.pro
 pinco-casinoofficiall.bar
 pinco-casinoofficiall.click
 pinco-casinoofficiall.digital
+pinco-casinoofficiall.fun
 pinco-casinoofficiall.live
+pinco-casinoofficiall.online
 pinco-casinoofficiall.pro
+pinco-casinoofficiall.space
+pinco-casinoofficiall.store
+pinco-casinoofficiall.top
+pinco-casinoofficiall.uno
+pinco-casinoofficiall.xyz
 pinco-casinoonline.ink
 pinco-casinoonline2.top
 pinco-casinoplay1.ru
+pinco-casinoplaykaz.fun
+pinco-casinoplaykaz.online
+pinco-casinoplaykaz.space
+pinco-casinoplaykaz.store
+pinco-casinoplaykaz.top
+pinco-casinoplaykaz.uno
+pinco-casinoplaykaz.xyz
 pinco-casinoplayqaz.bar
 pinco-casinoplayqaz.click
 pinco-casinoplayqaz.digital
@@ -8273,6 +8343,7 @@ pincocasino-tr.click
 pincocasino-tr.live
 pincocasino-uz.com
 pincocasino-uz.net
+pincocasino-uzbekistan.com
 pincocasino-vhod.com
 pincocasino-vio5.lol
 pincocasino-vip.click
@@ -8295,6 +8366,7 @@ pincocasino.bond
 pincocasino.cam
 pincocasino.click
 pincocasino.com.ec
+pincocasino.finance
 pincocasino.icu
 pincocasino.info
 pincocasino.lifestyle
@@ -8373,6 +8445,7 @@ pincocasinoan.cc
 pincocasinoaoj.top
 pincocasinoapk.com
 pincocasinobest-87zvwwch.top
+pincocasinobest.pro
 pincocasinobest.ru
 pincocasinocasino.com
 pincocasinocasino781-play.buzz
@@ -8430,6 +8503,7 @@ pincoo-casino.cfd
 pincoo-casino.lol
 pincoo.casino
 pincoocasino.com
+pincoofficialcasino.top
 pincooo-casino.lol
 pincopinupcasino-play.online
 pincopinupcasinoru.online
@@ -9180,6 +9254,7 @@ stake3199.com
 stake3201.com
 stake36.casino
 stake360.org
+stake365.app
 stake365.bet
 stake365.in
 stake365.win
@@ -9439,6 +9514,7 @@ stakecasino.tech
 stakecasino.top
 stakecasino.vip
 stakecasino.wiki
+stakecasino.xyz
 stakecasino1-br.com
 stakecasino1-it.com
 stakecasino1-it.net
@@ -10129,6 +10205,7 @@ vavada3265.casino
 vavada32l.casino
 vavada3333.casino
 vavada3484.casino
+vavada37.casino
 vavada378.casino
 vavada379.casino
 vavada392.casino
@@ -10200,6 +10277,7 @@ vavadacasino-779.top
 vavadacasino-780.top
 vavadacasino-bg.site
 vavadacasino-bonus.com
+vavadacasino-ch.ch
 vavadacasino-deutschland.com
 vavadacasino-ee.com
 vavadacasino-ee.net
@@ -10266,6 +10344,7 @@ vavadacasino.cloud
 vavadacasino.dance
 vavadacasino.digital
 vavadacasino.eu
+vavadacasino.exchange
 vavadacasino.expert
 vavadacasino.fun
 vavadacasino.ge
@@ -10314,9 +10393,11 @@ vavadacasino56.buzz
 vavadacasino6ie.click
 vavadacasino732.online
 vavadacasino777.org
+vavadacasino777.xyz
 vavadacasino77777zc.top
 vavadacasino777zv.top
 vavadacasino77zv.top
+vavadacasino7ru.top
 vavadacasino7zv.top
 vavadacasino8.top
 vavadacasino884.buzz
@@ -10327,6 +10408,7 @@ vavadacasinocash.ru
 vavadacasinocesko.com
 vavadacasinochy.top
 vavadacasinocom.ru
+vavadacasinoda.team
 vavadacasinodeutschland.de
 vavadacasinodf7.top
 vavadacasinoestonia.com
@@ -10388,16 +10470,20 @@ vavadafc98.com
 vavadagh.com
 vavadahbdgr.com
 vavadahibvt.com
+vavadahrv.com
 vavadakzcasino.kz
 vavadal7a4.com
 vavadallo.com
 vavadalockcasino-0g11.buzz
 vavadalockcasino-0l9h.buzz
+vavadalockcasino-17qn.buzz
 vavadalockcasino-1916.buzz
 vavadalockcasino-2a8a.buzz
 vavadalockcasino-2l3b.buzz
 vavadalockcasino-2n4b.buzz
+vavadalockcasino-3htj.buzz
 vavadalockcasino-3mw0.buzz
+vavadalockcasino-3zu3.buzz
 vavadalockcasino-47j3.buzz
 vavadalockcasino-4lbs.buzz
 vavadalockcasino-4o7f.buzz
@@ -10406,6 +10492,7 @@ vavadalockcasino-64hd.buzz
 vavadalockcasino-6a75.buzz
 vavadalockcasino-6wti.buzz
 vavadalockcasino-86p5.buzz
+vavadalockcasino-8vd7.buzz
 vavadalockcasino-90n3.buzz
 vavadalockcasino-9dai.buzz
 vavadalockcasino-9t59.buzz
@@ -10438,10 +10525,12 @@ vavadaskv1.com
 vavadaslots.cam
 vavadaslots7a.top
 vavadasw202.com
+vavadat29y0j.com
 vavadatm.com
 vavadaton.com
 vavadavad2.com
 vavadavbbt5.com
+vavadavcbg.com
 vavadavipcasino.com
 vavadavknb.com
 vavadavs.com
@@ -11002,6 +11091,7 @@ vodkacasino10.team
 vodkacasino107.buzz
 vodkacasino11.com
 vodkacasino116.buzz
+vodkacasino129.com
 vodkacasino12reg.top
 vodkacasino137.fun
 vodkacasino1438.sbs
@@ -11131,6 +11221,8 @@ vodkacasinoav0.top
 vodkacasinoav1.click
 vodkacasinoayx.click
 vodkacasinobes.click
+vodkacasinobest.com
+vodkacasinobest.live
 vodkacasinobet.sbs
 vodkacasinobet1.ru
 vodkacasinobetsite101.ru
@@ -11223,6 +11315,7 @@ vodkacasinor0o.click
 vodkacasinorbb.click
 vodkacasinorf.ru
 vodkacasinoru.casino
+vodkacasinoru.online
 vodkacasinorvf.click
 vodkacasinorvp.click
 vodkacasinos-play1.top
@@ -11421,12 +11514,14 @@ www.1-win.best
 www.1-win.br.com
 www.1-win.cam
 www.1-win.cards
+www.1-win.ch
 www.1-win.dev
 www.1-win.expert
 www.1-win.finance
 www.1-win.fund
 www.1-win.games
 www.1-win.in
+www.1-win.ink
 www.1-win.lol
 www.1-win.ng
 www.1-win.partners
@@ -11558,6 +11653,7 @@ www.1win-0p39.homes
 www.1win-0qt1s.top
 www.1win-0qvh.cfd
 www.1win-0ru2v.sbs
+www.1win-0s6.cfd
 www.1win-0ua0s.top
 www.1win-0vexg.buzz
 www.1win-0w3g.cam
@@ -11582,6 +11678,7 @@ www.1win-179f.cfd
 www.1win-19s.top
 www.1win-1al.top
 www.1win-1bbbi.xyz
+www.1win-1g1.cfd
 www.1win-1hc7l.buzz
 www.1win-1ist.top
 www.1win-1kd.sbs
@@ -11605,6 +11702,7 @@ www.1win-1win.online
 www.1win-1wn10.top
 www.1win-1wn6.top
 www.1win-1wt6.top
+www.1win-1ww.top
 www.1win-1x2ow.xyz
 www.1win-1xbet.top
 www.1win-1zy.homes
@@ -11629,6 +11727,7 @@ www.1win-21d5b.xyz
 www.1win-21tj.top
 www.1win-222.bet
 www.1win-2234.ru
+www.1win-24en9.cfd
 www.1win-251.top
 www.1win-26.com
 www.1win-2720.ru
@@ -11681,6 +11780,7 @@ www.1win-4219.surf
 www.1win-4395.ru
 www.1win-4488.ru
 www.1win-44l.top
+www.1win-454.top
 www.1win-456.bet
 www.1win-45fj.autos
 www.1win-463.click
@@ -11752,8 +11852,10 @@ www.1win-6wxi.top
 www.1win-7.icu
 www.1win-7.top
 www.1win-7.xyz
+www.1win-729j.buzz
 www.1win-72pw4.top
 www.1win-73kya.click
+www.1win-73rc.buzz
 www.1win-74j.cfd
 www.1win-74u.top
 www.1win-789.bet
@@ -11761,6 +11863,7 @@ www.1win-78y3p.sbs
 www.1win-78ze9.xyz
 www.1win-795sf.sbs
 www.1win-7erwe.sbs
+www.1win-7g44.top
 www.1win-7j7.top
 www.1win-7jhc.sbs
 www.1win-7mr.top
@@ -11793,6 +11896,7 @@ www.1win-8ghax.click
 www.1win-8hjb3.top
 www.1win-8htln.sbs
 www.1win-8j8vg.top
+www.1win-8lie.top
 www.1win-8ll.autos
 www.1win-8m8.store
 www.1win-8nk9n.xyz
@@ -11830,6 +11934,7 @@ www.1win-9iv.sbs
 www.1win-9iwci.top
 www.1win-9jch9.top
 www.1win-9kzc6.buzz
+www.1win-9l7o4.xyz
 www.1win-9ojr.casino
 www.1win-9ou.top
 www.1win-9rl.click
@@ -11858,6 +11963,7 @@ www.1win-af8gf.buzz
 www.1win-afb98.cfd
 www.1win-afl1.top
 www.1win-afp91.cam
+www.1win-afrique.com
 www.1win-aft34.sbs
 www.1win-afz86.cfd
 www.1win-agh59.sbs
@@ -11897,6 +12003,7 @@ www.1win-amz85.sbs
 www.1win-an1.top
 www.1win-ancn4.top
 www.1win-andrew.com
+www.1win-android-app.info
 www.1win-android-app.ru
 www.1win-android-download.ru
 www.1win-android-online.ru
@@ -11998,6 +12105,7 @@ www.1win-asm28.buzz
 www.1win-asp54.sbs
 www.1win-asqwe.cfd
 www.1win-asr94.buzz
+www.1win-asvue.top
 www.1win-ate26.sbs
 www.1win-ats49.cam
 www.1win-attention.sbs
@@ -12075,6 +12183,7 @@ www.1win-bangladesh.app
 www.1win-bangladesh.click
 www.1win-bbt9f.cfd
 www.1win-bbv58.sbs
+www.1win-bbw4.cfd
 www.1win-bbxl7.top
 www.1win-bcf.top
 www.1win-bck3.cfd
@@ -12209,6 +12318,8 @@ www.1win-blh52.buzz
 www.1win-bll2.top
 www.1win-blx16.buzz
 www.1win-blz8.cfd
+www.1win-bm4.xyz
+www.1win-bm7.xyz
 www.1win-bm8.xyz
 www.1win-bn3.xyz
 www.1win-bn5.xyz
@@ -12281,6 +12392,7 @@ www.1win-br.vip
 www.1win-br.website
 www.1win-br.win
 www.1win-br3.xyz
+www.1win-br6.xyz
 www.1win-brasil-bet.com
 www.1win-brasil-bet.fyi
 www.1win-brasil-bet.run
@@ -12340,6 +12452,7 @@ www.1win-bt3.xyz
 www.1win-bt4.xyz
 www.1win-bt5.xyz
 www.1win-bt7.xyz
+www.1win-bt9.xyz
 www.1win-bte3.buzz
 www.1win-btf3.buzz
 www.1win-bth.top
@@ -12368,6 +12481,7 @@ www.1win-buy3.buzz
 www.1win-bv4.xyz
 www.1win-bvr6.top
 www.1win-bvu.top
+www.1win-bw2.xyz
 www.1win-bw4.xyz
 www.1win-bw6.xyz
 www.1win-bw7.cfd
@@ -12556,6 +12670,7 @@ www.1win-casino-official8.top
 www.1win-casino-official9.top
 www.1win-casino-officials.com
 www.1win-casino-officialsite-bbo9.buzz
+www.1win-casino-officialsite.link
 www.1win-casino-officialsite.shop
 www.1win-casino-oficial.lat
 www.1win-casino-oficial.org
@@ -12584,6 +12699,7 @@ www.1win-casino-pl.org
 www.1win-casino-promo.ru
 www.1win-casino-pt.net
 www.1win-casino-realmoney.space
+www.1win-casino-registration.click
 www.1win-casino-registration.space
 www.1win-casino-review.ru
 www.1win-casino-room.ru
@@ -12664,6 +12780,7 @@ www.1win-casino11.buzz
 www.1win-casino111.buzz
 www.1win-casino113.buzz
 www.1win-casino114.buzz
+www.1win-casino115.buzz
 www.1win-casino116.buzz
 www.1win-casino117.buzz
 www.1win-casino119.buzz
@@ -13003,6 +13120,7 @@ www.1win-dfz47.site
 www.1win-dgb38.cam
 www.1win-dgg66.cfd
 www.1win-dgg93.top
+www.1win-dgh399.top
 www.1win-di00w.cfd
 www.1win-di3.top
 www.1win-dig27.buzz
@@ -13016,6 +13134,7 @@ www.1win-dkf.top
 www.1win-dkf1.top
 www.1win-dky43.buzz
 www.1win-dlg87.buzz
+www.1win-dlwm.top
 www.1win-dlya-android.ru
 www.1win-doov93.best
 www.1win-download-apk.ru
@@ -13120,6 +13239,7 @@ www.1win-eyc28.sbs
 www.1win-eymab.xyz
 www.1win-f.com
 www.1win-f0ssc.click
+www.1win-f1dd.top
 www.1win-f69tc.click
 www.1win-f75n.top
 www.1win-fal1.top
@@ -13145,6 +13265,7 @@ www.1win-fgr1.top
 www.1win-fgvzj.xyz
 www.1win-fhc43.buzz
 www.1win-fhp78.buzz
+www.1win-finibet.click
 www.1win-fis19.buzz
 www.1win-fix69.buzz
 www.1win-fjvbe.buzz
@@ -13279,6 +13400,7 @@ www.1win-girisguncel26.top
 www.1win-gji19.sbs
 www.1win-gjpc.cfd
 www.1win-gkl43.cfd
+www.1win-gle.top
 www.1win-global.sbs
 www.1win-globalez.click
 www.1win-glz63.sbs
@@ -13326,6 +13448,7 @@ www.1win-hbo67.sbs
 www.1win-hcd69.sbs
 www.1win-hcsgi.buzz
 www.1win-hdo65.sbs
+www.1win-he4.buzz
 www.1win-he4wm.top
 www.1win-hec.lifestyle
 www.1win-hek95.cfd
@@ -13337,6 +13460,7 @@ www.1win-hg0.top
 www.1win-hgymj.cfd
 www.1win-hhq67.cfd
 www.1win-hi34.pics
+www.1win-hit.buzz
 www.1win-hk77.click
 www.1win-hkq23.cam
 www.1win-hkw91.buzz
@@ -13405,6 +13529,7 @@ www.1win-iii-official14.fun
 www.1win-iii-official18.top
 www.1win-iij24.cfd
 www.1win-iir10.top
+www.1win-iir11.top
 www.1win-ij6.cfd
 www.1win-ijj44.top
 www.1win-ijuq.top
@@ -14246,6 +14371,7 @@ www.1win-pnj38.top
 www.1win-pnx33.buzz
 www.1win-pok7.top
 www.1win-poker-kazino-grand.top
+www.1win-poker.click
 www.1win-poker.club
 www.1win-poker.com
 www.1win-poker.lat
@@ -14289,6 +14415,7 @@ www.1win-pxm86.online
 www.1win-pyb36.cfd
 www.1win-pyt1.top
 www.1win-pz81y.xyz
+www.1win-q0d.cfd
 www.1win-q1b.top
 www.1win-q277d.buzz
 www.1win-q4d.cfd
@@ -14410,6 +14537,7 @@ www.1win-rkm53.sbs
 www.1win-rkx.study
 www.1win-rlvax.top
 www.1win-rmf46.buzz
+www.1win-rno67.buzz
 www.1win-ro.com
 www.1win-roe75.cfd
 www.1win-row97.buzz
@@ -14475,6 +14603,7 @@ www.1win-sf3.quest
 www.1win-sgf44.buzz
 www.1win-sgg39.cfd
 www.1win-sgj69.top
+www.1win-sgog.cfd
 www.1win-sgp38.buzz
 www.1win-sgr19.cam
 www.1win-sgwjr.buzz
@@ -14700,6 +14829,7 @@ www.1win-twd6g.top
 www.1win-two16.cam
 www.1win-twp0g.top
 www.1win-twvkb.cfd
+www.1win-tww.cfd
 www.1win-txk82.fun
 www.1win-txo51.cam
 www.1win-tyn74.buzz
@@ -14761,6 +14891,7 @@ www.1win-upi.net
 www.1win-uq2l.top
 www.1win-urd19.cfd
 www.1win-uru2.top
+www.1win-urus.top
 www.1win-us88.com
 www.1win-user-cabinet.ru
 www.1win-user-room.ru
@@ -14880,6 +15011,7 @@ www.1win-vv3.top
 www.1win-vvb1.top
 www.1win-vvn21.cfd
 www.1win-vvx33.cam
+www.1win-vvzmz.cfd
 www.1win-vwa.study
 www.1win-vwfhy.top
 www.1win-vwo24.sbs
@@ -15069,6 +15201,7 @@ www.1win-ybl76.sbs
 www.1win-yc67.top
 www.1win-ycjd.website
 www.1win-ycy77.cam
+www.1win-ydg.cfd
 www.1win-ydmxy.sbs
 www.1win-ydn57.cam
 www.1win-ydq91.cfd
@@ -15123,6 +15256,7 @@ www.1win-z4mbz.click
 www.1win-z4rnk.top
 www.1win-z8k2p.cfd
 www.1win-za.net
+www.1win-za.top
 www.1win-zaf18.cam
 www.1win-zao74.sbs
 www.1win-zbcg.forum
@@ -15238,6 +15372,7 @@ www.1win722.ru
 www.1win777.ru
 www.1win823.casino
 www.1win9.com
+www.1win915.casino
 www.1win994casino.online
 www.1winamp-v83z.cfd
 www.1winamp4-r9x.click
@@ -15377,6 +15512,7 @@ www.1wincasino-officialsite.buzz
 www.1wincasino-online-co.com
 www.1wincasino-online-my.org
 www.1wincasino-online.best
+www.1wincasino-online.cfd
 www.1wincasino-online.cz
 www.1wincasino-online.top
 www.1wincasino-panama.com
@@ -15407,6 +15543,7 @@ www.1wincasino-top.buzz
 www.1wincasino-tr.click
 www.1wincasino-venezuela.net
 www.1wincasino-venezuela.org
+www.1wincasino-vhod.click
 www.1wincasino-vhod.gives
 www.1wincasino-vhod.sbs
 www.1wincasino-vip.buzz
@@ -15569,6 +15706,7 @@ www.1wincasinoz-mobile.shop
 www.1wincasinoz-mobile.site
 www.1wincasinoz-official-site.fun
 www.1wincasinoz-officialsite.shop
+www.1wincasinoz-register.cyou
 www.1wincasinoz.buzz
 www.1wincasinoz1.buzz
 www.1wincassinos-france.fr
@@ -16304,6 +16442,7 @@ www.casinoz-vavada.xyz
 www.cassino-brasil-1win.com
 www.cazino-vavada-win777x.top
 www.cazino-vavada.icu
+www.cazinos-1win.cyou
 www.cdn-1win.xyz
 www.chile-1wins.com
 www.ci-1win.net
@@ -16585,6 +16724,7 @@ www.dragonmoney5226.casino
 www.dragonmoney543j.casino
 www.dragonmoney551.casino
 www.dragonmoney5631casino.lol
+www.dragonmoney583.casino
 www.dragonmoney58w.casino
 www.dragonmoney593.casino
 www.dragonmoney595.casino
@@ -16633,6 +16773,7 @@ www.dragonmoney93d.casino
 www.dragonmoney943.casino
 www.dragonmoney945.casino
 www.dragonmoney95.casino
+www.dragonmoney955.casino
 www.dragonmoney95b.casino
 www.dragonmoney95n.casino
 www.dragonmoney977.casino
@@ -17461,6 +17602,7 @@ www.gamacasino-znh.top
 www.gamacasino-zso.top
 www.gamacasino-zzj.top
 www.gamacasino-zzx.top
+www.gamacasino.buzz
 www.gamacasino.casino
 www.gamacasino.diy
 www.gamacasino.me
@@ -18347,6 +18489,7 @@ www.kent0421.casino
 www.kent0423.casino
 www.kent0493.casino
 www.kent07.casino
+www.kent08.casino
 www.kent08062.casino
 www.kent0911.casino
 www.kent098.casino
@@ -18995,7 +19138,13 @@ www.pinco-casino-official.bar
 www.pinco-casino-official.cc
 www.pinco-casino-official.click
 www.pinco-casino-official.digital
+www.pinco-casino-official.fun
 www.pinco-casino-official.help
+www.pinco-casino-official.space
+www.pinco-casino-official.store
+www.pinco-casino-official.top
+www.pinco-casino-official.uno
+www.pinco-casino-official.xyz
 www.pinco-casino-one.ru
 www.pinco-casino-online-gof8.buzz
 www.pinco-casino-online.life
@@ -19333,11 +19482,25 @@ www.pinco-casinoofficial.pro
 www.pinco-casinoofficiall.bar
 www.pinco-casinoofficiall.click
 www.pinco-casinoofficiall.digital
+www.pinco-casinoofficiall.fun
 www.pinco-casinoofficiall.live
+www.pinco-casinoofficiall.online
 www.pinco-casinoofficiall.pro
+www.pinco-casinoofficiall.space
+www.pinco-casinoofficiall.store
+www.pinco-casinoofficiall.top
+www.pinco-casinoofficiall.uno
+www.pinco-casinoofficiall.xyz
 www.pinco-casinoonline.ink
 www.pinco-casinoonline2.top
 www.pinco-casinoplay1.ru
+www.pinco-casinoplaykaz.fun
+www.pinco-casinoplaykaz.online
+www.pinco-casinoplaykaz.space
+www.pinco-casinoplaykaz.store
+www.pinco-casinoplaykaz.top
+www.pinco-casinoplaykaz.uno
+www.pinco-casinoplaykaz.xyz
 www.pinco-casinoplayqaz.bar
 www.pinco-casinoplayqaz.click
 www.pinco-casinoplayqaz.digital
@@ -19601,6 +19764,7 @@ www.pincocasino-tr.click
 www.pincocasino-tr.live
 www.pincocasino-uz.com
 www.pincocasino-uz.net
+www.pincocasino-uzbekistan.com
 www.pincocasino-vhod.com
 www.pincocasino-vio5.lol
 www.pincocasino-vip.click
@@ -19623,6 +19787,7 @@ www.pincocasino.bond
 www.pincocasino.cam
 www.pincocasino.click
 www.pincocasino.com.ec
+www.pincocasino.finance
 www.pincocasino.icu
 www.pincocasino.info
 www.pincocasino.lifestyle
@@ -19701,6 +19866,7 @@ www.pincocasinoan.cc
 www.pincocasinoaoj.top
 www.pincocasinoapk.com
 www.pincocasinobest-87zvwwch.top
+www.pincocasinobest.pro
 www.pincocasinobest.ru
 www.pincocasinocasino.com
 www.pincocasinocasino781-play.buzz
@@ -19758,6 +19924,7 @@ www.pincoo-casino.cfd
 www.pincoo-casino.lol
 www.pincoo.casino
 www.pincoocasino.com
+www.pincoofficialcasino.top
 www.pincooo-casino.lol
 www.pincopinupcasino-play.online
 www.pincopinupcasinoru.online
@@ -20506,6 +20673,7 @@ www.stake3199.com
 www.stake3201.com
 www.stake36.casino
 www.stake360.org
+www.stake365.app
 www.stake365.bet
 www.stake365.in
 www.stake365.win
@@ -20765,6 +20933,7 @@ www.stakecasino.tech
 www.stakecasino.top
 www.stakecasino.vip
 www.stakecasino.wiki
+www.stakecasino.xyz
 www.stakecasino1-br.com
 www.stakecasino1-it.com
 www.stakecasino1-it.net
@@ -21455,6 +21624,7 @@ www.vavada3265.casino
 www.vavada32l.casino
 www.vavada3333.casino
 www.vavada3484.casino
+www.vavada37.casino
 www.vavada378.casino
 www.vavada379.casino
 www.vavada392.casino
@@ -21526,6 +21696,7 @@ www.vavadacasino-779.top
 www.vavadacasino-780.top
 www.vavadacasino-bg.site
 www.vavadacasino-bonus.com
+www.vavadacasino-ch.ch
 www.vavadacasino-deutschland.com
 www.vavadacasino-ee.com
 www.vavadacasino-ee.net
@@ -21592,6 +21763,7 @@ www.vavadacasino.cloud
 www.vavadacasino.dance
 www.vavadacasino.digital
 www.vavadacasino.eu
+www.vavadacasino.exchange
 www.vavadacasino.expert
 www.vavadacasino.fun
 www.vavadacasino.ge
@@ -21640,9 +21812,11 @@ www.vavadacasino56.buzz
 www.vavadacasino6ie.click
 www.vavadacasino732.online
 www.vavadacasino777.org
+www.vavadacasino777.xyz
 www.vavadacasino77777zc.top
 www.vavadacasino777zv.top
 www.vavadacasino77zv.top
+www.vavadacasino7ru.top
 www.vavadacasino7zv.top
 www.vavadacasino8.top
 www.vavadacasino884.buzz
@@ -21653,6 +21827,7 @@ www.vavadacasinocash.ru
 www.vavadacasinocesko.com
 www.vavadacasinochy.top
 www.vavadacasinocom.ru
+www.vavadacasinoda.team
 www.vavadacasinodeutschland.de
 www.vavadacasinodf7.top
 www.vavadacasinoestonia.com
@@ -21714,16 +21889,20 @@ www.vavadafc98.com
 www.vavadagh.com
 www.vavadahbdgr.com
 www.vavadahibvt.com
+www.vavadahrv.com
 www.vavadakzcasino.kz
 www.vavadal7a4.com
 www.vavadallo.com
 www.vavadalockcasino-0g11.buzz
 www.vavadalockcasino-0l9h.buzz
+www.vavadalockcasino-17qn.buzz
 www.vavadalockcasino-1916.buzz
 www.vavadalockcasino-2a8a.buzz
 www.vavadalockcasino-2l3b.buzz
 www.vavadalockcasino-2n4b.buzz
+www.vavadalockcasino-3htj.buzz
 www.vavadalockcasino-3mw0.buzz
+www.vavadalockcasino-3zu3.buzz
 www.vavadalockcasino-47j3.buzz
 www.vavadalockcasino-4lbs.buzz
 www.vavadalockcasino-4o7f.buzz
@@ -21732,6 +21911,7 @@ www.vavadalockcasino-64hd.buzz
 www.vavadalockcasino-6a75.buzz
 www.vavadalockcasino-6wti.buzz
 www.vavadalockcasino-86p5.buzz
+www.vavadalockcasino-8vd7.buzz
 www.vavadalockcasino-90n3.buzz
 www.vavadalockcasino-9dai.buzz
 www.vavadalockcasino-9t59.buzz
@@ -21764,10 +21944,12 @@ www.vavadaskv1.com
 www.vavadaslots.cam
 www.vavadaslots7a.top
 www.vavadasw202.com
+www.vavadat29y0j.com
 www.vavadatm.com
 www.vavadaton.com
 www.vavadavad2.com
 www.vavadavbbt5.com
+www.vavadavcbg.com
 www.vavadavipcasino.com
 www.vavadavknb.com
 www.vavadavs.com
@@ -22328,6 +22510,7 @@ www.vodkacasino10.team
 www.vodkacasino107.buzz
 www.vodkacasino11.com
 www.vodkacasino116.buzz
+www.vodkacasino129.com
 www.vodkacasino12reg.top
 www.vodkacasino137.fun
 www.vodkacasino1438.sbs
@@ -22457,6 +22640,8 @@ www.vodkacasinoav0.top
 www.vodkacasinoav1.click
 www.vodkacasinoayx.click
 www.vodkacasinobes.click
+www.vodkacasinobest.com
+www.vodkacasinobest.live
 www.vodkacasinobet.sbs
 www.vodkacasinobet1.ru
 www.vodkacasinobetsite101.ru
@@ -22549,6 +22734,7 @@ www.vodkacasinor0o.click
 www.vodkacasinorbb.click
 www.vodkacasinorf.ru
 www.vodkacasinoru.casino
+www.vodkacasinoru.online
 www.vodkacasinorvf.click
 www.vodkacasinorvp.click
 www.vodkacasinos-play1.top
