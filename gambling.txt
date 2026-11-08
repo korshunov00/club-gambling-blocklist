@@ -1,7 +1,7 @@
 # Club gambling blocklist - selected brands only
 # Scope: 817db9df104ef34c
-# Checked-UTC: 2026-11-07
-# Domains: 24764
+# Checked-UTC: 2026-11-08
+# Domains: 24766
 # Source: HaGeZi https://github.com/hagezi/dns-blocklists (filtered and extended)
 # License: GPL-3.0-only; full license text follows the domains
 001win-001win-app.com
@@ -3219,6 +3219,7 @@
 1win-play.my
 1win-play.poker
 1win-play.ru
+1win-play.win
 1win-play24.top
 1win-player-cabinet.ru
 1win-player-login.ru
@@ -15594,6 +15595,7 @@ www.1win-play.lat
 www.1win-play.my
 www.1win-play.poker
 www.1win-play.ru
+www.1win-play.win
 www.1win-play24.top
 www.1win-player-cabinet.ru
 www.1win-player-login.ru
