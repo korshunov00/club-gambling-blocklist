@@ -1,7 +1,7 @@
 # Club gambling blocklist - selected brands only
 # Scope: 817db9df104ef34c
-# Checked-UTC: 2026-11-17
-# Domains: 27082
+# Checked-UTC: 2026-11-18
+# Domains: 27092
 # Source: HaGeZi https://github.com/hagezi/dns-blocklists (filtered and extended)
 # License: GPL-3.0-only; full license text follows the domains
 001win-001win-app.com
@@ -5463,6 +5463,7 @@ bigvodkacasino.cc
 bitcoin-casino-stake.com
 bk-1win-zerkalo.ru
 bk1win.ru
+blackjack-stake.com
 bloodycase.com
 bludragon.ru
 bonodecasino1win.cl
@@ -7547,6 +7548,7 @@ jetton-win.casino
 jetton-win.online
 jetton-win.space
 jetton-win24.top
+jetton.com
 jetton.games
 jetton.vg
 jetton08062.casino
@@ -7633,6 +7635,7 @@ jettonplay.casino
 jettonplay1.casino
 jettonpremium.casino
 jettonru.casino
+jettonslots.com
 jettonslots.vip
 jettonslots24.top
 jettonuz.casino
@@ -9732,6 +9735,7 @@ pinco07casino.com
 pinco08rucasino.com
 pinco08ruscasino.com
 pinco0906.casino
+pinco09casino.com
 pinco1.casino
 pinco100.casino
 pinco100rf.casino
@@ -12488,6 +12492,7 @@ ve-1wins.com
 venezuela-1win-official.com
 venezuela-1wins.com
 vhod-pinco-casino.kz
+video-poker-stake.com
 vip-casinopinko-fun.space
 vip-kent100.com
 vip-kent110.com
@@ -18991,6 +18996,7 @@ www.bigvodkacasino.cc
 www.bitcoin-casino-stake.com
 www.bk-1win-zerkalo.ru
 www.bk1win.ru
+www.blackjack-stake.com
 www.bloodycase.com
 www.bludragon.ru
 www.bonodecasino1win.cl
@@ -21075,6 +21081,7 @@ www.jetton-win.casino
 www.jetton-win.online
 www.jetton-win.space
 www.jetton-win24.top
+www.jetton.com
 www.jetton.games
 www.jetton.vg
 www.jetton08062.casino
@@ -21161,6 +21168,7 @@ www.jettonplay.casino
 www.jettonplay1.casino
 www.jettonpremium.casino
 www.jettonru.casino
+www.jettonslots.com
 www.jettonslots.vip
 www.jettonslots24.top
 www.jettonuz.casino
@@ -23260,6 +23268,7 @@ www.pinco07casino.com
 www.pinco08rucasino.com
 www.pinco08ruscasino.com
 www.pinco0906.casino
+www.pinco09casino.com
 www.pinco1.casino
 www.pinco100.casino
 www.pinco100rf.casino
@@ -26012,6 +26021,7 @@ www.ve-1wins.com
 www.venezuela-1win-official.com
 www.venezuela-1wins.com
 www.vhod-pinco-casino.kz
+www.video-poker-stake.com
 www.vip-casinopinko-fun.space
 www.vip-kent100.com
 www.vip-kent110.com
