@@ -1,7 +1,7 @@
 # Club gambling blocklist - selected brands only
 # Scope: 817db9df104ef34c
 # Checked-UTC: 2026-11-22
-# Domains: 29361
+# Domains: 29371
 # Source: HaGeZi https://github.com/hagezi/dns-blocklists (filtered and extended)
 # License: GPL-3.0-only; full license text follows the domains
 001win-001win-app.com
@@ -5945,6 +5945,7 @@
 771win-vip.com
 771win.com
 777-721win.com
+781winslots.com
 7k-newgames-star1win.sbs
 7kent.casino
 81-win.com
@@ -8145,6 +8146,7 @@ jetton-casino-apk.space
 jetton-casino-bre9.top
 jetton-casino-brz.lat
 jetton-casino-brz.lol
+jetton-casino-brz.vip
 jetton-casino-brz.xyz
 jetton-casino-eymc.top
 jetton-casino-game.fun
@@ -12468,7 +12470,9 @@ vavada-casino-bg-official.com
 vavada-casino-bg.net
 vavada-casino-bg.radio.fm
 vavada-casino-bjr.top
+vavada-casino-bonus-code.com
 vavada-casino-bonus.net
+vavada-casino-bonuses.com
 vavada-casino-c2t.top
 vavada-casino-c4t.top
 vavada-casino-c5t.top
@@ -13353,6 +13357,7 @@ vavadacasinolatvia.com
 vavadacasinolatvia.net
 vavadacasinolatvia.xyz
 vavadacasinolive.ru
+vavadacasinologin.com
 vavadacasinologin.org
 vavadacasinologin.pl
 vavadacasinologin2.top
@@ -20639,6 +20644,7 @@ www.721-win.vip
 www.771win-vip.com
 www.771win.com
 www.777-721win.com
+www.781winslots.com
 www.7k-newgames-star1win.sbs
 www.7kent.casino
 www.81-win.com
@@ -22794,6 +22800,7 @@ www.jetton-casino-apk.space
 www.jetton-casino-bre9.top
 www.jetton-casino-brz.lat
 www.jetton-casino-brz.lol
+www.jetton-casino-brz.vip
 www.jetton-casino-brz.xyz
 www.jetton-casino-eymc.top
 www.jetton-casino-game.fun
@@ -27106,7 +27113,9 @@ www.vavada-casino-bg-official.com
 www.vavada-casino-bg.net
 www.vavada-casino-bg.radio.fm
 www.vavada-casino-bjr.top
+www.vavada-casino-bonus-code.com
 www.vavada-casino-bonus.net
+www.vavada-casino-bonuses.com
 www.vavada-casino-c2t.top
 www.vavada-casino-c4t.top
 www.vavada-casino-c5t.top
@@ -27991,6 +28000,7 @@ www.vavadacasinolatvia.com
 www.vavadacasinolatvia.net
 www.vavadacasinolatvia.xyz
 www.vavadacasinolive.ru
+www.vavadacasinologin.com
 www.vavadacasinologin.org
 www.vavadacasinologin.pl
 www.vavadacasinologin2.top
