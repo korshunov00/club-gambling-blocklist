@@ -1,7 +1,7 @@
 # Club gambling blocklist - selected brands only
 # Scope: 817db9df104ef34c
-# Checked-UTC: 2026-11-22
-# Domains: 29371
+# Checked-UTC: 2026-11-23
+# Domains: 29387
 # Source: HaGeZi https://github.com/hagezi/dns-blocklists (filtered and extended)
 # License: GPL-3.0-only; full license text follows the domains
 001win-001win-app.com
@@ -57,6 +57,7 @@
 1-win-it.app
 1-win-it.com
 1-win-it.net
+1-win-kazinos.shop
 1-win-kazinos.site
 1-win-krypto.lol
 1-win-krypto.xyz
@@ -2655,6 +2656,7 @@
 1win-igq13.buzz
 1win-igrat.top
 1win-igratcasino.ru
+1win-igrovie-avtomaty.icu
 1win-igrovie-avtomaty.shop
 1win-igrovie-avtomaty.website
 1win-igz31.sbs
@@ -4704,6 +4706,7 @@
 1win-vyi17.cam
 1win-vym.cfd
 1win-vyz27.cfd
+1win-vz7.top
 1win-vzd76.cam
 1win-vzyt.buzz
 1win-w.com
@@ -6099,6 +6102,7 @@ casino-1win-login.com
 casino-1win-uz.com
 casino-1win.best
 casino-1win.cam
+casino-1win.cfd
 casino-1win.click
 casino-1win.icu
 casino-1win.info
@@ -11329,6 +11333,7 @@ stake-casino-au-play.com
 stake-casino-au.online
 stake-casino-aud.com
 stake-casino-australia.click
+stake-casino-australia.com
 stake-casino-australia.net
 stake-casino-australia.online
 stake-casino-australia.sbs
@@ -13537,6 +13542,7 @@ vip1win.ru
 vodka-bet-4290.cyou
 vodka-bet-555.ru
 vodka-bet-casino-0uxp2.top
+vodka-bet-casino-0zap6.top
 vodka-bet-casino-e1.top
 vodka-bet-casino-gazk.top
 vodka-bet-casino-nvtk.top
@@ -13955,6 +13961,7 @@ vodka-casino24t.top
 vodka-casino26.top
 vodka-casino289.cyou
 vodka-casino29.com
+vodka-casino29.online
 vodka-casino297.cyou
 vodka-casino3020.buzz
 vodka-casino3051.buzz
@@ -14096,6 +14103,7 @@ vodkabet-zerkalo1.ru
 vodkabet-zerkalor1.ru
 vodkabet.xyz
 vodkabet00.casino
+vodkabet123.casino
 vodkabet272.casino
 vodkabet32.casino
 vodkabet3333.casino
@@ -14757,6 +14765,7 @@ www.1-win-indonesia.com
 www.1-win-it.app
 www.1-win-it.com
 www.1-win-it.net
+www.1-win-kazinos.shop
 www.1-win-kazinos.site
 www.1-win-krypto.lol
 www.1-win-krypto.xyz
@@ -17354,6 +17363,7 @@ www.1win-igo97.cfd
 www.1win-igq13.buzz
 www.1win-igrat.top
 www.1win-igratcasino.ru
+www.1win-igrovie-avtomaty.icu
 www.1win-igrovie-avtomaty.shop
 www.1win-igrovie-avtomaty.website
 www.1win-igz31.sbs
@@ -19403,6 +19413,7 @@ www.1win-vyctr.xyz
 www.1win-vyi17.cam
 www.1win-vym.cfd
 www.1win-vyz27.cfd
+www.1win-vz7.top
 www.1win-vzd76.cam
 www.1win-vzyt.buzz
 www.1win-w.com
@@ -20795,6 +20806,7 @@ www.casino-1win-login.com
 www.casino-1win-uz.com
 www.casino-1win.best
 www.casino-1win.cam
+www.casino-1win.cfd
 www.casino-1win.click
 www.casino-1win.icu
 www.casino-1win.info
@@ -25973,6 +25985,7 @@ www.stake-casino-au-play.com
 www.stake-casino-au.online
 www.stake-casino-aud.com
 www.stake-casino-australia.click
+www.stake-casino-australia.com
 www.stake-casino-australia.net
 www.stake-casino-australia.online
 www.stake-casino-australia.sbs
@@ -28180,6 +28193,7 @@ www.vip1win.ru
 www.vodka-bet-4290.cyou
 www.vodka-bet-555.ru
 www.vodka-bet-casino-0uxp2.top
+www.vodka-bet-casino-0zap6.top
 www.vodka-bet-casino-e1.top
 www.vodka-bet-casino-gazk.top
 www.vodka-bet-casino-nvtk.top
@@ -28598,6 +28612,7 @@ www.vodka-casino24t.top
 www.vodka-casino26.top
 www.vodka-casino289.cyou
 www.vodka-casino29.com
+www.vodka-casino29.online
 www.vodka-casino297.cyou
 www.vodka-casino3020.buzz
 www.vodka-casino3051.buzz
@@ -28739,6 +28754,7 @@ www.vodkabet-zerkalo1.ru
 www.vodkabet-zerkalor1.ru
 www.vodkabet.xyz
 www.vodkabet00.casino
+www.vodkabet123.casino
 www.vodkabet272.casino
 www.vodkabet32.casino
 www.vodkabet3333.casino
