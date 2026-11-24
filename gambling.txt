@@ -1,7 +1,7 @@
 # Club gambling blocklist - selected brands only
 # Scope: 817db9df104ef34c
-# Checked-UTC: 2026-11-23
-# Domains: 29521
+# Checked-UTC: 2026-11-24
+# Domains: 29654
 # Source: HaGeZi https://github.com/hagezi/dns-blocklists (filtered and extended)
 # License: GPL-3.0-only; full license text follows the domains
 001win-001win-app.com
@@ -2644,6 +2644,7 @@
 1win-ic7s7.top
 1win-icl45.cam
 1win-iczq80.best
+1win-id.cash
 1win-id.cc
 1win-id.cool
 1win-id.top
@@ -6827,6 +6828,7 @@ dragonmoney-win.casino
 dragonmoney-win.org
 dragonmoney-win.site
 dragonmoney-win.top
+dragonmoney.casinosa314.buzz
 dragonmoney.net
 dragonmoney027.casino
 dragonmoney0310f.casino
@@ -6877,6 +6879,7 @@ dragonmoney287.casino
 dragonmoney2909.casino
 dragonmoney291m.casino
 dragonmoney333.casino
+dragonmoney3598.casino
 dragonmoney35t.casino
 dragonmoney35v.casino
 dragonmoney367.casino
@@ -6929,6 +6932,7 @@ dragonmoney694.casino
 dragonmoney695.casino
 dragonmoney698.casino
 dragonmoney7053casino.sbs
+dragonmoney7134.casino
 dragonmoney7163casino.sbs
 dragonmoney726.casino
 dragonmoney732.casino
@@ -6938,9 +6942,11 @@ dragonmoney763.casino
 dragonmoney772.casino
 dragonmoney777play.casino
 dragonmoney780.casino
+dragonmoney798.casino
 dragonmoney7casino.top
 dragonmoney8.casino
 dragonmoney8100.casino
+dragonmoney814.casino
 dragonmoney81l.casino
 dragonmoney823.casino
 dragonmoney824.casino
@@ -6961,6 +6967,7 @@ dragonmoney906.casino
 dragonmoney9100.casino
 dragonmoney915.casino
 dragonmoney9170casino.buzz
+dragonmoney9181.casino
 dragonmoney9203casino.buzz
 dragonmoney924.casino
 dragonmoney933.casino
@@ -6975,6 +6982,7 @@ dragonmoney95.casino
 dragonmoney955.casino
 dragonmoney95b.casino
 dragonmoney95n.casino
+dragonmoney9696.casino
 dragonmoney977.casino
 dragonmoney9821.casino
 dragonmoney99.casino
@@ -7180,6 +7188,7 @@ drgn20.casino
 drgn200.casino
 drgn21.casino
 drgn222.casino
+drgn23.casino
 drgn233.casino
 drgn24.casino
 drgn2520.casino
@@ -7764,9 +7773,11 @@ gama69.life
 gama69login.com
 gama736.casino
 gama742.casino
+gama75.casino
 gama762casino.bond
 gama767.casino
 gama777casino.com
+gama78.casino
 gama8149.casino
 gama831.casino
 gama88.casino
@@ -7995,6 +8006,7 @@ gamacasino1.buzz
 gamacasino1.org
 gamacasino10.com
 gamacasino10.ru
+gamacasino100.com
 gamacasino102.top
 gamacasino107.com
 gamacasino109.com
@@ -9153,6 +9165,7 @@ kent3476346.casino
 kent34796.casino
 kent35053.casino
 kent35353.casino
+kent3545.casino
 kent356.com
 kent35653.casino
 kent3575.casino
@@ -9283,6 +9296,7 @@ kent8899.casino
 kent8989.casino
 kent906.com
 kent90909.casino
+kent9126.casino
 kent91919.casino
 kent92629.casino
 kent928.com
@@ -9462,6 +9476,7 @@ key-drop3.com
 key-drop4.com
 keydrop.com
 keystonewings-pab.com
+kg-1win.com
 komaone-win.com
 kz-jetton.casino
 kz-pinco.casino
@@ -10508,6 +10523,7 @@ pinco-slot-888.ru
 pinco-slot-az.com
 pinco-slot-casino-2.top
 pinco-slot-casino-3.top
+pinco-slot.online
 pinco-slots-500.ru
 pinco-slots-casino-10.top
 pinco-slots-casino-7.top
@@ -10566,6 +10582,7 @@ pinco09casino.com
 pinco1.casino
 pinco100.casino
 pinco100rf.casino
+pinco101.casino
 pinco1045.casino
 pinco1046.casino
 pinco1047.casino
@@ -10602,6 +10619,7 @@ pinco20casino4.buzz
 pinco20casino5.buzz
 pinco2202.casino
 pinco224.casino
+pinco2387.casino
 pinco24casino.com
 pinco2546.casino
 pinco3009casino.top
@@ -10610,6 +10628,7 @@ pinco3312.casino
 pinco333ruscasino.com
 pinco3491.casino
 pinco3984.casino
+pinco428.casino
 pinco431.casino
 pinco43dc.casino
 pinco4824.casino
@@ -10657,12 +10676,14 @@ pinco808casino.com
 pinco824fv.casino
 pinco8754.casino
 pinco88x.win
+pinco8934.casino
 pinco8956.casino
 pinco89casino.com
 pinco8s.casino
 pinco909casino.com
 pinco91-casino.casino
 pinco914.casino
+pinco9191.casino
 pinco95rus.casino
 pinco98-casino.online
 pinco9834.casino
@@ -13596,6 +13617,8 @@ vodka-bet-casino-0zap6.top
 vodka-bet-casino-e1.top
 vodka-bet-casino-gazk.top
 vodka-bet-casino-nvtk.top
+vodka-bet-casino.bet
+vodka-bet-casino.casino
 vodka-bet-casino.com
 vodka-bet-casino066.cyou
 vodka-bet-casino179.cyou
@@ -13643,6 +13666,7 @@ vodka-bet.today
 vodka-bet05.buzz
 vodka-bet1.win
 vodka-bet1096.buzz
+vodka-bet11.casino
 vodka-bet2.win
 vodka-bet280.casino
 vodka-bet2904.buzz
@@ -13663,9 +13687,11 @@ vodka-bet980.casino
 vodka-betc.cc
 vodka-betcasino.top
 vodka-betplay.ru
+vodka-bets.bet
 vodka-bets.buzz
 vodka-bets.online
 vodka-bets.win
+vodka-betz.bet
 vodka-casino-098.online
 vodka-casino-098.ru
 vodka-casino-111.ru
@@ -13795,6 +13821,7 @@ vodka-casino-b2k.top
 vodka-casino-b2x.top
 vodka-casino-b3h.top
 vodka-casino-best1.top
+vodka-casino-bet.bet
 vodka-casino-bet.click
 vodka-casino-bet.com
 vodka-casino-bet.info
@@ -14112,6 +14139,9 @@ vodka-casinous.casino
 vodka-casinozax.top
 vodka.bet
 vodka9cyl-vodkabet.com
+vodkabet-01.casino
+vodkabet-21.casino
+vodkabet-39.casino
 vodkabet-bet.top
 vodkabet-casin.com
 vodkabet-casino-p1.top
@@ -14141,6 +14171,7 @@ vodkabet-new.casino
 vodkabet-new.one
 vodkabet-official.ru
 vodkabet-oficial.ru
+vodkabet-play.bet
 vodkabet-play.casino
 vodkabet-portal.online
 vodkabet-registratsiya.ru
@@ -14158,35 +14189,63 @@ vodkabet-vodkakz.com
 vodkabet-vyplaty.ru
 vodkabet-zerkalo1.ru
 vodkabet-zerkalor1.ru
+vodkabet.digital
+vodkabet.forum
 vodkabet.rest
 vodkabet.xyz
 vodkabet00.casino
+vodkabet001.casino
+vodkabet070.casino
+vodkabet0987.casino
+vodkabet1.online
 vodkabet123.casino
+vodkabet15.bet
+vodkabet19.casino
+vodkabet2.online
 vodkabet272.casino
+vodkabet28.casino
+vodkabet3.online
+vodkabet310.casino
 vodkabet32.casino
+vodkabet3275.casino
 vodkabet3333.casino
+vodkabet35.bet
 vodkabet35.casino
 vodkabet39.casino
+vodkabet4.online
 vodkabet43.casino
 vodkabet444.casino
 vodkabet444.ru
 vodkabet452.casino
+vodkabet50.casino
 vodkabet540.casino
 vodkabet61.casino
+vodkabet618.casino
 vodkabet6645.casino
+vodkabet67.bet
 vodkabet709.casino
 vodkabet715.casino
 vodkabet729.casino
 vodkabet73.casino
 vodkabet735.casino
 vodkabet747.casino
+vodkabet77.bet
 vodkabet777.cc
+vodkabet7771.casino
+vodkabet7776.casino
+vodkabet7777.casino
 vodkabet786.casino
 vodkabet79.casino
 vodkabet799.casino
+vodkabet81.casino
+vodkabet84.casino
 vodkabet850.casino
+vodkabet87.casino
 vodkabet884.casino
 vodkabet911.casino
+vodkabet93.bet
+vodkabet93.casino
+vodkabet95.com
 vodkabetcasino-ru.com
 vodkabetcasino-zerkalo.ru
 vodkabetcasino.cfd
@@ -14276,6 +14335,7 @@ vodkacasino-akcii.ru
 vodkacasino-avtomat.ru
 vodkacasino-best020926.casino
 vodkacasino-best020926.com
+vodkacasino-bet.buzz
 vodkacasino-bet.online
 vodkacasino-bet.ru
 vodkacasino-bet1.ru
@@ -14325,6 +14385,7 @@ vodkacasino-vhod.site
 vodkacasino-vyvod.ru
 vodkacasino-yras.xyz
 vodkacasino-zerkal0.ru
+vodkacasino-zerkalo.bet
 vodkacasino-zerkalo.online
 vodkacasino-zerkalo.ru
 vodkacasino.app
@@ -14346,6 +14407,7 @@ vodkacasino.mom
 vodkacasino.money
 vodkacasino.net
 vodkacasino.one
+vodkacasino.online
 vodkacasino.org
 vodkacasino.party
 vodkacasino.sbs
@@ -14354,6 +14416,7 @@ vodkacasino.team
 vodkacasino.tech
 vodkacasino.us
 vodkacasino.vip
+vodkacasino.website
 vodkacasino.wiki
 vodkacasino0.cc
 vodkacasino0.com
@@ -14448,6 +14511,7 @@ vodkacasino4yy.buzz
 vodkacasino5.casino
 vodkacasino5.com
 vodkacasino5.online
+vodkacasino52.bet
 vodkacasino529.xyz
 vodkacasino5321.com
 vodkacasino545.online
@@ -14533,8 +14597,11 @@ vodkacasinobest.com
 vodkacasinobest.live
 vodkacasinobet.cc
 vodkacasinobet.info
+vodkacasinobet.online
 vodkacasinobet.sbs
+vodkacasinobet1.online
 vodkacasinobet1.ru
+vodkacasinobet3.online
 vodkacasinobets.bet
 vodkacasinobetsite101.ru
 vodkacasinobetsite102.ru
@@ -17418,6 +17485,7 @@ www.1win-iblge4.top
 www.1win-ic7s7.top
 www.1win-icl45.cam
 www.1win-iczq80.best
+www.1win-id.cash
 www.1win-id.cc
 www.1win-id.cool
 www.1win-id.top
@@ -21606,6 +21674,7 @@ www.dragonmoney287.casino
 www.dragonmoney2909.casino
 www.dragonmoney291m.casino
 www.dragonmoney333.casino
+www.dragonmoney3598.casino
 www.dragonmoney35t.casino
 www.dragonmoney35v.casino
 www.dragonmoney367.casino
@@ -21658,6 +21727,7 @@ www.dragonmoney694.casino
 www.dragonmoney695.casino
 www.dragonmoney698.casino
 www.dragonmoney7053casino.sbs
+www.dragonmoney7134.casino
 www.dragonmoney7163casino.sbs
 www.dragonmoney726.casino
 www.dragonmoney732.casino
@@ -21667,9 +21737,11 @@ www.dragonmoney763.casino
 www.dragonmoney772.casino
 www.dragonmoney777play.casino
 www.dragonmoney780.casino
+www.dragonmoney798.casino
 www.dragonmoney7casino.top
 www.dragonmoney8.casino
 www.dragonmoney8100.casino
+www.dragonmoney814.casino
 www.dragonmoney81l.casino
 www.dragonmoney823.casino
 www.dragonmoney824.casino
@@ -21690,6 +21762,7 @@ www.dragonmoney906.casino
 www.dragonmoney9100.casino
 www.dragonmoney915.casino
 www.dragonmoney9170casino.buzz
+www.dragonmoney9181.casino
 www.dragonmoney9203casino.buzz
 www.dragonmoney924.casino
 www.dragonmoney933.casino
@@ -21704,6 +21777,7 @@ www.dragonmoney95.casino
 www.dragonmoney955.casino
 www.dragonmoney95b.casino
 www.dragonmoney95n.casino
+www.dragonmoney9696.casino
 www.dragonmoney977.casino
 www.dragonmoney9821.casino
 www.dragonmoney99.casino
@@ -21909,6 +21983,7 @@ www.drgn20.casino
 www.drgn200.casino
 www.drgn21.casino
 www.drgn222.casino
+www.drgn23.casino
 www.drgn233.casino
 www.drgn24.casino
 www.drgn2520.casino
@@ -22493,9 +22568,11 @@ www.gama69.life
 www.gama69login.com
 www.gama736.casino
 www.gama742.casino
+www.gama75.casino
 www.gama762casino.bond
 www.gama767.casino
 www.gama777casino.com
+www.gama78.casino
 www.gama8149.casino
 www.gama831.casino
 www.gama88.casino
@@ -22724,6 +22801,7 @@ www.gamacasino1.buzz
 www.gamacasino1.org
 www.gamacasino10.com
 www.gamacasino10.ru
+www.gamacasino100.com
 www.gamacasino102.top
 www.gamacasino107.com
 www.gamacasino109.com
@@ -23882,6 +23960,7 @@ www.kent3476346.casino
 www.kent34796.casino
 www.kent35053.casino
 www.kent35353.casino
+www.kent3545.casino
 www.kent356.com
 www.kent35653.casino
 www.kent3575.casino
@@ -24012,6 +24091,7 @@ www.kent8899.casino
 www.kent8989.casino
 www.kent906.com
 www.kent90909.casino
+www.kent9126.casino
 www.kent91919.casino
 www.kent92629.casino
 www.kent928.com
@@ -24191,6 +24271,7 @@ www.key-drop3.com
 www.key-drop4.com
 www.keydrop.com
 www.keystonewings-pab.com
+www.kg-1win.com
 www.komaone-win.com
 www.kz-jetton.casino
 www.kz-pinco.casino
@@ -25230,6 +25311,7 @@ www.pinco-slot-888.ru
 www.pinco-slot-az.com
 www.pinco-slot-casino-2.top
 www.pinco-slot-casino-3.top
+www.pinco-slot.online
 www.pinco-slots-500.ru
 www.pinco-slots-casino-10.top
 www.pinco-slots-casino-7.top
@@ -25288,6 +25370,7 @@ www.pinco09casino.com
 www.pinco1.casino
 www.pinco100.casino
 www.pinco100rf.casino
+www.pinco101.casino
 www.pinco1045.casino
 www.pinco1046.casino
 www.pinco1047.casino
@@ -25324,6 +25407,7 @@ www.pinco20casino4.buzz
 www.pinco20casino5.buzz
 www.pinco2202.casino
 www.pinco224.casino
+www.pinco2387.casino
 www.pinco24casino.com
 www.pinco2546.casino
 www.pinco3009casino.top
@@ -25332,6 +25416,7 @@ www.pinco3312.casino
 www.pinco333ruscasino.com
 www.pinco3491.casino
 www.pinco3984.casino
+www.pinco428.casino
 www.pinco431.casino
 www.pinco43dc.casino
 www.pinco4824.casino
@@ -25379,12 +25464,14 @@ www.pinco808casino.com
 www.pinco824fv.casino
 www.pinco8754.casino
 www.pinco88x.win
+www.pinco8934.casino
 www.pinco8956.casino
 www.pinco89casino.com
 www.pinco8s.casino
 www.pinco909casino.com
 www.pinco91-casino.casino
 www.pinco914.casino
+www.pinco9191.casino
 www.pinco95rus.casino
 www.pinco98-casino.online
 www.pinco9834.casino
@@ -28314,6 +28401,8 @@ www.vodka-bet-casino-0zap6.top
 www.vodka-bet-casino-e1.top
 www.vodka-bet-casino-gazk.top
 www.vodka-bet-casino-nvtk.top
+www.vodka-bet-casino.bet
+www.vodka-bet-casino.casino
 www.vodka-bet-casino.com
 www.vodka-bet-casino066.cyou
 www.vodka-bet-casino179.cyou
@@ -28361,6 +28450,7 @@ www.vodka-bet.today
 www.vodka-bet05.buzz
 www.vodka-bet1.win
 www.vodka-bet1096.buzz
+www.vodka-bet11.casino
 www.vodka-bet2.win
 www.vodka-bet280.casino
 www.vodka-bet2904.buzz
@@ -28381,9 +28471,11 @@ www.vodka-bet980.casino
 www.vodka-betc.cc
 www.vodka-betcasino.top
 www.vodka-betplay.ru
+www.vodka-bets.bet
 www.vodka-bets.buzz
 www.vodka-bets.online
 www.vodka-bets.win
+www.vodka-betz.bet
 www.vodka-casino-098.online
 www.vodka-casino-098.ru
 www.vodka-casino-111.ru
@@ -28513,6 +28605,7 @@ www.vodka-casino-b2k.top
 www.vodka-casino-b2x.top
 www.vodka-casino-b3h.top
 www.vodka-casino-best1.top
+www.vodka-casino-bet.bet
 www.vodka-casino-bet.click
 www.vodka-casino-bet.com
 www.vodka-casino-bet.info
@@ -28830,6 +28923,9 @@ www.vodka-casinous.casino
 www.vodka-casinozax.top
 www.vodka.bet
 www.vodka9cyl-vodkabet.com
+www.vodkabet-01.casino
+www.vodkabet-21.casino
+www.vodkabet-39.casino
 www.vodkabet-bet.top
 www.vodkabet-casin.com
 www.vodkabet-casino-p1.top
@@ -28859,6 +28955,7 @@ www.vodkabet-new.casino
 www.vodkabet-new.one
 www.vodkabet-official.ru
 www.vodkabet-oficial.ru
+www.vodkabet-play.bet
 www.vodkabet-play.casino
 www.vodkabet-portal.online
 www.vodkabet-registratsiya.ru
@@ -28876,35 +28973,63 @@ www.vodkabet-vodkakz.com
 www.vodkabet-vyplaty.ru
 www.vodkabet-zerkalo1.ru
 www.vodkabet-zerkalor1.ru
+www.vodkabet.digital
+www.vodkabet.forum
 www.vodkabet.rest
 www.vodkabet.xyz
 www.vodkabet00.casino
+www.vodkabet001.casino
+www.vodkabet070.casino
+www.vodkabet0987.casino
+www.vodkabet1.online
 www.vodkabet123.casino
+www.vodkabet15.bet
+www.vodkabet19.casino
+www.vodkabet2.online
 www.vodkabet272.casino
+www.vodkabet28.casino
+www.vodkabet3.online
+www.vodkabet310.casino
 www.vodkabet32.casino
+www.vodkabet3275.casino
 www.vodkabet3333.casino
+www.vodkabet35.bet
 www.vodkabet35.casino
 www.vodkabet39.casino
+www.vodkabet4.online
 www.vodkabet43.casino
 www.vodkabet444.casino
 www.vodkabet444.ru
 www.vodkabet452.casino
+www.vodkabet50.casino
 www.vodkabet540.casino
 www.vodkabet61.casino
+www.vodkabet618.casino
 www.vodkabet6645.casino
+www.vodkabet67.bet
 www.vodkabet709.casino
 www.vodkabet715.casino
 www.vodkabet729.casino
 www.vodkabet73.casino
 www.vodkabet735.casino
 www.vodkabet747.casino
+www.vodkabet77.bet
 www.vodkabet777.cc
+www.vodkabet7771.casino
+www.vodkabet7776.casino
+www.vodkabet7777.casino
 www.vodkabet786.casino
 www.vodkabet79.casino
 www.vodkabet799.casino
+www.vodkabet81.casino
+www.vodkabet84.casino
 www.vodkabet850.casino
+www.vodkabet87.casino
 www.vodkabet884.casino
 www.vodkabet911.casino
+www.vodkabet93.bet
+www.vodkabet93.casino
+www.vodkabet95.com
 www.vodkabetcasino-ru.com
 www.vodkabetcasino-zerkalo.ru
 www.vodkabetcasino.cfd
@@ -28994,6 +29119,7 @@ www.vodkacasino-akcii.ru
 www.vodkacasino-avtomat.ru
 www.vodkacasino-best020926.casino
 www.vodkacasino-best020926.com
+www.vodkacasino-bet.buzz
 www.vodkacasino-bet.online
 www.vodkacasino-bet.ru
 www.vodkacasino-bet1.ru
@@ -29043,6 +29169,7 @@ www.vodkacasino-vhod.site
 www.vodkacasino-vyvod.ru
 www.vodkacasino-yras.xyz
 www.vodkacasino-zerkal0.ru
+www.vodkacasino-zerkalo.bet
 www.vodkacasino-zerkalo.online
 www.vodkacasino-zerkalo.ru
 www.vodkacasino.app
@@ -29064,6 +29191,7 @@ www.vodkacasino.mom
 www.vodkacasino.money
 www.vodkacasino.net
 www.vodkacasino.one
+www.vodkacasino.online
 www.vodkacasino.org
 www.vodkacasino.party
 www.vodkacasino.sbs
@@ -29072,6 +29200,7 @@ www.vodkacasino.team
 www.vodkacasino.tech
 www.vodkacasino.us
 www.vodkacasino.vip
+www.vodkacasino.website
 www.vodkacasino.wiki
 www.vodkacasino0.cc
 www.vodkacasino0.com
@@ -29166,6 +29295,7 @@ www.vodkacasino4yy.buzz
 www.vodkacasino5.casino
 www.vodkacasino5.com
 www.vodkacasino5.online
+www.vodkacasino52.bet
 www.vodkacasino529.xyz
 www.vodkacasino5321.com
 www.vodkacasino545.online
@@ -29251,8 +29381,11 @@ www.vodkacasinobest.com
 www.vodkacasinobest.live
 www.vodkacasinobet.cc
 www.vodkacasinobet.info
+www.vodkacasinobet.online
 www.vodkacasinobet.sbs
+www.vodkacasinobet1.online
 www.vodkacasinobet1.ru
+www.vodkacasinobet3.online
 www.vodkacasinobets.bet
 www.vodkacasinobetsite101.ru
 www.vodkacasinobetsite102.ru
