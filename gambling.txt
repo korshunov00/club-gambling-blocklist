@@ -1,7 +1,7 @@
 # Club gambling blocklist - selected brands only
 # Scope: 817db9df104ef34c
-# Checked-UTC: 2026-11-24
-# Domains: 29702
+# Checked-UTC: 2026-11-25
+# Domains: 29706
 # Source: HaGeZi https://github.com/hagezi/dns-blocklists (filtered and extended)
 # License: GPL-3.0-only; full license text follows the domains
 001win-001win-app.com
@@ -5934,6 +5934,7 @@
 271win-vip.com
 289-vodkacasino.com
 2dragonmoney-casino17.buzz
+31win.casino
 31winzoria97.com
 361-win.com
 3661vodkacasino9.top
@@ -9362,6 +9363,7 @@ kentcasino-oox.top
 kentcasino-qfr.top
 kentcasino-registration.homes
 kentcasino-ru.com
+kentcasino-ru.icu
 kentcasino-ru.shop
 kentcasino-rus.shop
 kentcasino-sbq.online
@@ -20801,6 +20803,7 @@ www.221winph.club
 www.271win-vip.com
 www.289-vodkacasino.com
 www.2dragonmoney-casino17.buzz
+www.31win.casino
 www.31winzoria97.com
 www.361-win.com
 www.3661vodkacasino9.top
@@ -24182,6 +24185,7 @@ www.kentcasino-oox.top
 www.kentcasino-qfr.top
 www.kentcasino-registration.homes
 www.kentcasino-ru.com
+www.kentcasino-ru.icu
 www.kentcasino-ru.shop
 www.kentcasino-rus.shop
 www.kentcasino-sbq.online
